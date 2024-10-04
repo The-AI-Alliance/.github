@@ -15,6 +15,7 @@ Some of our projects include the following:
 | FA3: Applications and Tools | The Living Guide to Applying AI | [web site](https://the-ai-alliance.github.io/applying-ai-guide//) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) |
 | FA4: Diverse Hardware Ecosystems | The AI Accelerator Software Ecosystem Guide | [web site](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/) | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide) |
 | FA5: Open Models and Datasets | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) |
+| FA6: Advocacy | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use) |
 
 For more information:
 
