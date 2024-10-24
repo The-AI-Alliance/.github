@@ -11,8 +11,8 @@ Some of our projects include the following:
 | **Focus Area** | **Title** | **Microsite** | **GitHub** |
 | :------------- | :-------- | :------------ | :---------- |
 | FA2: Trust and Safety | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) |
-| FA2: Trust and Safety | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) |
 | FA2: Trust and Safety | Trust and Safety Evaluations | [web site](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) |
+| FA2: Trust and Safety | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) |
 | FA3: Applications and Tools | The Living Guide to Applying AI | [web site](https://the-ai-alliance.github.io/applying-ai-guide//) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) |
 | FA4: Diverse Hardware Ecosystems | The AI Accelerator Software Ecosystem Guide | [web site](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/) | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide) |
 | FA5: Open Models and Datasets | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) |
