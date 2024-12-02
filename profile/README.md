@@ -8,16 +8,16 @@ This is the GitHub organization for Alliance projects.
 
 Some of our projects include the following:
 
-| **Focus Area** | **Title** | **Microsite** | **GitHub** |
-| :------------- | :-------- | :------------ | :--------- |
-| FA2: Trust and Safety | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) |
-| FA2: Trust and Safety | Trust and Safety Evaluations | [web site](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) |
-| FA2: Trust and Safety | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) |
-| FA3: Applications and Tools | The Living Guide to Applying AI | [web site](https://the-ai-alliance.github.io/applying-ai-guide/) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) |
-| FA3: Applications and Tools | AI Application Testing for Developers | [web site](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) |
+| **Focus Area**                   | **Title** | **Microsite** | **GitHub** |
+| :------------------------------- | :-------- | :------------ | :--------- |
+| FA2: Trust and Safety            | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) |
+|                                  | Trust and Safety Evaluations | [web site](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) |
+|                                  | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) |
+| FA3: Applications and Tools      | The Living Guide to Applying AI | [web site](https://the-ai-alliance.github.io/applying-ai-guide/) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) |
+|                                  | AI Application Testing for Developers | [web site](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) |
 | FA4: Diverse Hardware Ecosystems | The AI Accelerator Software Ecosystem Guide | [web site](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/) | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide) |
-| FA5: Open Models and Datasets | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) |
-| FA6: Advocacy | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use) |
+| FA5: Open Models and Datasets    | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) |
+| FA6: Advocacy                    | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use) |
 
 For more information:
 
