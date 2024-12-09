@@ -11,7 +11,7 @@ Some of our projects include the following:
 | **Focus Area**                   | **Title** | **Microsite** | **GitHub** |
 | :------------------------------- | :-------- | :------------ | :--------- |
 | FA2: Trust and Safety            | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) |
-|                                  | Trust and Safety Evaluations | [web site](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) |
+|                                  | Trust and Safety Evaluations Initiative | [web site](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) |
 |                                  | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) |
 | FA3: Applications and Tools      | The Living Guide to Applying AI | [web site](https://the-ai-alliance.github.io/applying-ai-guide/) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) |
 |                                  | AI Application Testing for Developers | [web site](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) |
