@@ -9,7 +9,7 @@ This is the GitHub organization for Alliance projects.
 Some of our projects include the following:
 
 | **Focus Area**                   | **Title** | **Microsite** | **GitHub** |
-| :------------------------------- | :-------- | :------------ | :--------- |
+| :------------------------------- | :-------- | :-----------: | :--------: |
 | FA2: Trust and Safety            | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) |
 |                                  | Trust and Safety Evaluations Initiative | [web site](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) |
 |                                  | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) |
