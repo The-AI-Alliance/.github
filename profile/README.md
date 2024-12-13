@@ -17,6 +17,7 @@ Some of our projects include the following:
 |                                  | AI Application Testing for Developers | [web site](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) |
 | FA4: Diverse Hardware Ecosystems | The AI Accelerator Software Ecosystem Guide | [web site](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/) | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide) |
 | FA5: Open Models and Datasets    | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) |
+|                                  | The Open, Trusted Model Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-model-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative) |
 | FA6: Advocacy                    | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use) |
 
 For more information:
