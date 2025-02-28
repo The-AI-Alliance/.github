@@ -21,6 +21,8 @@ The projects in this organization include the following:
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
 | :--------------------- | :------- | :------------ | :--------- |
 | [The Living Guide to Applying AI](https://the-ai-alliance.github.io/applying-ai-guide/) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) | N/A | [issues](https://github.com/The-AI-Alliance/applying-ai-guide/issues) |
+| [Gofannon](https://the-ai-alliance.github.io/gofannon/) | [repo](https://github.com/The-AI-Alliance/gofannon/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22) | [issues](https://github.com/The-AI-Alliance/gofannon/issues) |
+| Proscenium | [repo](https://github.com/The-AI-Alliance/proscenium/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22) | [issues](https://github.com/The-AI-Alliance/proscenium/issues) |
 | [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31) | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues) |
 
 ### [FA4: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement) 
