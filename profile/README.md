@@ -22,6 +22,7 @@ The projects in this organization include the following:
 | :--------------------- | :------- | :------------ | :--------- |
 | [The Living Guide to Applying AI](https://the-ai-alliance.github.io/applying-ai-guide/) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) | N/A | [issues](https://github.com/The-AI-Alliance/applying-ai-guide/issues) |
 | [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31) | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues) |
+| Gofannon | [repo](https://github.com/The-AI-Alliance/gofannon/) | dashboard | [issues](https://github.com/The-AI-Alliance/gofannon/issues) |
 
 ### [FA4: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement) 
 
