@@ -8,7 +8,7 @@ This is the GitHub organization for Alliance projects.
 
 The projects in this organization include the following:
 
-### [FA2: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
+### [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
 | :--------------------- | :------- | :------------ | :--------- |
@@ -16,7 +16,7 @@ The projects in this organization include the following:
 | [Trust and Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/23) | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues) |
 | [Ranking AI Safety Priorities by Domain](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/32) | [issues](https://github.com/The-AI-Alliance/ranking-safety-priorities/issues) |
 
-### [FA3: Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
+### [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
 
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
 | :--------------------- | :------- | :------------ | :--------- |
@@ -25,21 +25,21 @@ The projects in this organization include the following:
 | Proscenium | [repo](https://github.com/The-AI-Alliance/proscenium/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22) | [issues](https://github.com/The-AI-Alliance/proscenium/issues) |
 | [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31) | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues) |
 
-### [FA4: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement) 
+### [Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement) 
 
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
 | :--------------------- | :------- | :------------ | :--------- |
 | [The AI Accelerator Software Ecosystem Guide](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/) | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide) | N/A | [issues](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues) |
 
 
-### [FA5: Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets) 
+### [Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets) 
 
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
 | :--------------------- | :------- | :------------ | :--------- |
 | [The Open, Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/28) | [issues](https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues) |
 | [The Open, Trusted Model Initiative](https://the-ai-alliance.github.io/open-trusted-model-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative) | N/A | [issues](https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues) |
 
-### [FA6: Advocacy](https://thealliance.ai/focus-areas/advocacy)
+### [Advocacy](https://thealliance.ai/focus-areas/advocacy)
 
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
 | :--------------------- | :------- | :------------ | :--------- |
