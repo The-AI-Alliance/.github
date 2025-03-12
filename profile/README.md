@@ -10,40 +10,40 @@ The projects in this organization include the following:
 
 ### [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
-| :--------------------- | :------- | :------------ | :--------- |
- | [The AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) | N/A | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues) |
-| [Trust and Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/23) | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues) |
-| [Ranking AI Safety Priorities by Domain](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/32) | [issues](https://github.com/The-AI-Alliance/ranking-safety-priorities/issues) |
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
+| :--------------------- | :------- | :------------ | :--------- | :-------------- |
+ | [The AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) | N/A | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues) | [discussions](https://github.com/The-AI-Alliance/trust-safety-evals/discussions) |
+| [Trust and Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/23) | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues) | [discussions](https://github.com/The-AI-Alliance/trust-safety-evals/discussions) |
+| [Ranking AI Safety Priorities by Domain](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/32) | [issues](https://github.com/The-AI-Alliance/ranking-safety-priorities/issues) | [discussions](https://github.com/The-AI-Alliance/ranking-safety-priorities/discussions) |
 
 ### [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
-| :--------------------- | :------- | :------------ | :--------- |
-| [The Living Guide to Applying AI](https://the-ai-alliance.github.io/applying-ai-guide/) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) | N/A | [issues](https://github.com/The-AI-Alliance/applying-ai-guide/issues) |
-| [Gofannon](https://the-ai-alliance.github.io/gofannon/) | [repo](https://github.com/The-AI-Alliance/gofannon/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22) | [issues](https://github.com/The-AI-Alliance/gofannon/issues) |
-| Proscenium | [repo](https://github.com/The-AI-Alliance/proscenium/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22) | [issues](https://github.com/The-AI-Alliance/proscenium/issues) |
-| [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31) | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues) |
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
+| :--------------------- | :------- | :------------ | :--------- | :-------------- |
+| [The Living Guide to Applying AI](https://the-ai-alliance.github.io/applying-ai-guide/) | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/) | N/A | [issues](https://github.com/The-AI-Alliance/applying-ai-guide/issues) | [discussions](https://github.com/The-AI-Alliance/applying-ai-guide/discussions) |
+| [Gofannon](https://the-ai-alliance.github.io/gofannon/) | [repo](https://github.com/The-AI-Alliance/gofannon/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22) | [issues](https://github.com/The-AI-Alliance/gofannon/issues) | [discussions](https://github.com/The-AI-Alliance/gofannon/discussions) |
+| Proscenium | [repo](https://github.com/The-AI-Alliance/proscenium/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22) | [issues](https://github.com/The-AI-Alliance/proscenium/issues) | [discussions](https://github.com/The-AI-Alliance/proscenium/discussions) |
+| [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/) | [repo](https://github.com/The-AI-Alliance/ai-application-testing/) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31) | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues) | [discussions](https://github.com/The-AI-Alliance/ai-application-testing/discussions) |
 
 ### [Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement) 
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
-| :--------------------- | :------- | :------------ | :--------- |
-| [The AI Accelerator Software Ecosystem Guide](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/) | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide) | N/A | [issues](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues) |
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
+| :--------------------- | :------- | :------------ | :--------- | :-------------- |
+| [The AI Accelerator Software Ecosystem Guide](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/) | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide) | N/A | [issues](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues) | [discussions](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/discussions) |
 
 
 ### [Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets) 
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
-| :--------------------- | :------- | :------------ | :--------- |
-| [The Open, Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/28) | [issues](https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues) |
-| [The Open, Trusted Model Initiative](https://the-ai-alliance.github.io/open-trusted-model-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative) | N/A | [issues](https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues) |
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
+| :--------------------- | :------- | :------------ | :--------- | :-------------- |
+| [The Open, Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/28) | [issues](https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues) | [discussions](https://github.com/The-AI-Alliance/open-trusted-data-initiative/discussions) |
+| [The Open, Trusted Model Initiative](https://the-ai-alliance.github.io/open-trusted-model-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative) | N/A | [issues](https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues) | [discussions](https://github.com/The-AI-Alliance/open-trusted-model-initiative/discussions) |
 
 ### [Advocacy](https://thealliance.ai/focus-areas/advocacy)
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
-| :--------------------- | :------- | :------------ | :--------- |
-| [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use) | N/A | [issues](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/issues) |
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
+| :--------------------- | :------- | :------------ | :--------- | :-------------- |
+| [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/) | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use) | N/A | [issues](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/issues) | [discussions](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/discussions) |
 
 ## For More Information
 
