@@ -12,7 +12,7 @@ The projects in this organization include the following:
 
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
 | :--------------------- | :------- | :------------ | :--------- | :-------------- |
- | [The AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) | N/A | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues) | [discussions](https://github.com/The-AI-Alliance/trust-safety-evals/discussions) |
+ | [The AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/) | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide) | N/A | [issues](https://github.com/The-AI-Alliance/trust-safety-user-guide/issues) | [discussions](https://github.com/The-AI-Alliance/trust-safety-user-guide/discussions) |
 | [Trust and Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/23) | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues) | [discussions](https://github.com/The-AI-Alliance/trust-safety-evals/discussions) |
 | [Ranking AI Safety Priorities by Domain](https://the-ai-alliance.github.io/ranking-safety-priorities/) | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/32) | [issues](https://github.com/The-AI-Alliance/ranking-safety-priorities/issues) | [discussions](https://github.com/The-AI-Alliance/ranking-safety-priorities/discussions) |
 
