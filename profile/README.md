@@ -35,10 +35,10 @@ The projects in this organization include the following:
 
 ### [Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets) 
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
-| :--------------------- | :------- | :------------ | :--------- | :-------------- |
-| [The Open, Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/28) | [issues](https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues) | [discussions](https://github.com/The-AI-Alliance/open-trusted-data-initiative/discussions) |
-| [The Open, Trusted Model Initiative](https://the-ai-alliance.github.io/open-trusted-model-initiative/) | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative) | N/A | [issues](https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues) | [discussions](https://github.com/The-AI-Alliance/open-trusted-model-initiative/discussions) |
+| **Project/Initiative** | **Description** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
+| :--------------------- | :-------------- | :------- | :------------ | :--------- | :-------------- |
+| [The Open, Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/) | _Open data_ has clear license for use, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world's datasets that meet the criteria. Projects: <ul> <li>[Define Openness Criteria](https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+requirements%22)</li> <li>[Data Pipelines to Validate Datasets](https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22data+pipelines%22)</li> <li>[Open Dataset Catalog](https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+catalog%22)</li> </ul> | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative) | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/28) | [issues](https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues) | [discussions](https://github.com/The-AI-Alliance/open-trusted-data-initiative/discussions) |
+| [The Open, Trusted Model Initiative](https://the-ai-alliance.github.io/open-trusted-model-initiative/) | Facilitate the creation of open models in diverse science and technology domains, and for applications like time series, drug discovery, etc. | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative) | N/A | [issues](https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues) | [discussions](https://github.com/The-AI-Alliance/open-trusted-model-initiative/discussions) |
 
 ### [Advocacy](https://thealliance.ai/focus-areas/advocacy)
 
