@@ -14,7 +14,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -115,7 +115,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -231,7 +231,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -269,7 +269,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -344,7 +344,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
