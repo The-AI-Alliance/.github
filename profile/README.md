@@ -8,26 +8,6 @@ This is the GitHub organization for Alliance projects.
 
 The projects in this organization include the following:
 
-<style>
-    th {
-        background-color: #EEECE1;
-        white-space: nowrap;
-        text-align: left;
-        font-weight: bold;
-    }
-
-    td {
-        background-color: #EFEFF6;
-        text-align: left;
-    }
-
-    td.project-title {
-        background-color: #F1FBEA; /* #FBF0FA; */
-        text-align: left;
-        font-weight: bold;
-    }
-</style>
-
 ### [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
 <div class="table-wrapper">
