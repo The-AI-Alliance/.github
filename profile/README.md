@@ -21,7 +21,7 @@ The projects in this organization include the following:
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Trust and Safety Evaluations Initiative</a>
+          <a href="https://the-ai-alliance.github.io/trust-safety-evals/"><strong>Trust and Safety Evaluations Initiative</strong></a>
         </td>
       </tr>
       <tr>
@@ -58,7 +58,7 @@ The projects in this organization include the following:
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/">Ranking AI Safety Priorities by Domain</a>
+          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/"><strong>Ranking AI Safety Priorities by Domain</strong></a>
         </td>
       </tr>
       <tr>
@@ -84,7 +84,7 @@ The projects in this organization include the following:
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/">The AI Trust and Safety User Guide</a>
+          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/"><strong>The AI Trust and Safety User Guide</strong></a>
         </td>
       </tr>
       <tr>
@@ -122,7 +122,7 @@ The projects in this organization include the following:
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a>
+          <a href="https://the-ai-alliance.github.io/gofannon/"><strong>Gofannon</strong></a>
         </td>
       </tr>
       <tr>
@@ -148,7 +148,7 @@ The projects in this organization include the following:
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          Proscenium
+          <strong>Proscenium</strong>
         </td>
       </tr>
       <tr>
@@ -174,7 +174,7 @@ The projects in this organization include the following:
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/applying-ai-guide/">The Living Guide to Applying AI</a>
+          <a href="https://the-ai-alliance.github.io/applying-ai-guide/"><strong>The Living Guide to Applying AI</strong></a>
         </td>
       </tr>
       <tr>
@@ -197,7 +197,7 @@ The projects in this organization include the following:
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/">AI Application Testing for Developers</a>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/"><strong>AI Application Testing for Developers</strong></a>
         </td>
       </tr>
       <tr>
@@ -238,7 +238,7 @@ The projects in this organization include the following:
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/">The AI Accelerator Software Ecosystem Guide</a>
+          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/"><strong>The AI Accelerator Software Ecosystem Guide</strong></a>
         </td>
       </tr>
       <tr>
@@ -276,7 +276,7 @@ The projects in this organization include the following:
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/">The Open, Trusted Data Initiative</a>
+          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/"><strong>The Open, Trusted Data Initiative</strong></a>
         </td>
       </tr>
       <tr>
@@ -313,7 +313,7 @@ The projects in this organization include the following:
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-model-initiative/">The Open, Trusted Model Initiative</a>
+          <a href="https://the-ai-alliance.github.io/open-trusted-model-initiative/"><strong>The Open, Trusted Model Initiative</strong></a>
         </td>
       </tr>
       <tr>
@@ -351,7 +351,7 @@ The projects in this organization include the following:
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/">AAAI 25: Workshop on Open-Source AI for Mainstream Use</a>
+          <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/"><strong>AAAI 25: Workshop on Open-Source AI for Mainstream Use</strong></a>
         </td>
       </tr>
       <tr>
