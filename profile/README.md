@@ -89,7 +89,7 @@ How do we know that applications built with AI are _trustworthy_, that they perf
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/">Red Teaming Work Group</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/">Red Teaming Work Group</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
