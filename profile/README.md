@@ -274,7 +274,7 @@ Real-world use of AI involves more than just models. What application patterns b
           </ul>
         </td>
         <td>
-          A deployable, domain-specific application demonstrating the use of [Llama Stack](https://github.com/meta-llama/llama-stack).
+          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>.
         </td>
       </tr>
       <tr>
