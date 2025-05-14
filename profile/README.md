@@ -6,7 +6,46 @@ The AI Alliance is focused on accelerating and disseminating open innovation acr
 
 This is the GitHub organization for Alliance projects.
 
+Agents agents agents...
+
+A key goal is to make Open-Source AI successful in the real world.
+That requires applying, learning, and distilling best practices and technology combinations, patterns, recipes, blue prints in specific domains of application.
+
+LLM and beyond (hint at timeseries)
+
+Here's where we have started:
+
+### Legal
+
+- Bartlebot
+
+### Semiconductor
+
+- SemiKong
+- OpenDXA
+
+### Health
+
+-
+
+### Chemistry
+
+- 
+
+### Geospatial
+
+- [GEO-Bench-2](https://github.com/The-AI-Alliance/GEO-Bench-2)
+  
+### Finance (Coming soon)
+
+
+Most of applying AI to domains, comes from fumdanmental
+
+AI alliance is focused on data models and tooling that enable...
+
 The following projects are organized into _focus areas_ and include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
+
+Llama stack learning and use-cases
 
 ## [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
