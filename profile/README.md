@@ -165,7 +165,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
-### [Focus Area: Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
+### [Focus Area: Agents, Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
 
 Real-world use of AI involves more than just models. What application patterns best complement the strengths and weaknesses of models? Are there domain-specific considerations?
 
