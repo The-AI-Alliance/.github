@@ -6,7 +6,39 @@ The AI Alliance is focused on accelerating and disseminating open innovation acr
 
 This is the GitHub organization for Alliance projects.
 
-The following projects are organized into _focus areas_ and include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
+## Applying AI in the Real World
+
+A key goal is to make Open-Source AI Agents successful in the real world.
+That requires applying, learning, and distilling best practices and technology.
+Our open use cases demonstrate patterns, recipes, and blue prints in specific domains of application.
+
+They address domain-specific challenges for LLMs and other aspects of AI systems.
+
+The domains we are initially focused on are listed below.  Coming soon we will add: Finance, Health, and Chemistry.
+
+### Semiconductor
+
+- [SemiKong](https://github.com/aitomatic/semikong)
+- OpenDXA (Coming soon)
+
+### Legal
+
+- [Bartlebot](https://github.com/The-AI-Alliance/bartlebot)
+
+### Geospatial
+
+- GEO-Bench-2 (Coming soon)
+
+### Llama Stack Lab
+
+Platforms such as [Llama Stack](https://github.com/meta-llama/llama-stack) are the common technical basis for the domain-specifi examples.
+We are organizing several demonstrates of Llama Stack in action in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab)
+
+## Focus Areas
+
+The AI Alliance is organized into _focus areas_ to cover the fundmanetal aspects of applying AI that cut across domains.
+
+The following projects are organized into focus areas.  They include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
 
 ## [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
