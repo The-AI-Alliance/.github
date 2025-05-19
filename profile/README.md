@@ -14,7 +14,7 @@ Our open use cases demonstrate patterns, recipes, and blue prints in specific do
 
 They address domain-specific challenges for LLMs and other aspects of AI systems.
 
-The domains we are initially focused on are listed below.  Coming soon we will ad: Finance, Health, and Chemistry.
+The domains we are initially focused on are listed below.  Coming soon we will add: Finance, Health, and Chemistry.
 
 ### Semiconductor
 
