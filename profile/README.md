@@ -1,10 +1,8 @@
 # The AI Alliance
 
-Welcome to the [AI Alliance](https://thealliance.ai), a community of technology creators, developers, and adopters collaborating to advance safe, responsible AI rooted in open innovation.
+Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai), a community of technology creators, developers, and adopters collaborating to advance safe, responsible, and effective AI rooted in open innovation. Here, Alliance members collaborate on technical initiatives, AI technology guides, and related projects. 
 
 The AI Alliance is focused on accelerating and disseminating open innovation across the AI technology landscape to improve foundational capabilities, safety, security and trust in AI, and to responsibly maximize benefits to people and society everywhere.
-
-This is the GitHub organization for Alliance projects.
 
 ## Applying AI in the Real World
 
@@ -36,11 +34,9 @@ We are organizing several demonstrates of Llama Stack in action in the [Llama St
 
 ## Focus Areas
 
-The AI Alliance is organized into _focus areas_ to cover the fundmanetal aspects of applying AI that cut across domains.
+The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
 
-The following projects are organized into focus areas.  They include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
-
-## [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
+### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
 How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs?
 
@@ -197,7 +193,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
-### [Focus Area: Agents, Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
+### [Focus Area: Agents, Applications, and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
 
 Real-world use of AI involves more than just models. What application patterns best complement the strengths and weaknesses of models? Are there domain-specific considerations?
 
