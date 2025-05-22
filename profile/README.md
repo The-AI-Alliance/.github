@@ -32,9 +32,14 @@ The domains we are initially focused on are listed below.  Coming soon we will a
 Platforms such as [Llama Stack](https://github.com/meta-llama/llama-stack) are the common technical basis for the domain-specifi examples.
 We are organizing several demonstrates of Llama Stack in action in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab)
 
+<!-- 
+WARNING: Don't remove the next comment or the "focus areas: end" comment below. 
+They are used for automated copying of this content to the-ai-alliance.github.com repo.
+-->
+<!-- focus areas: start -->
 ## Focus Areas
 
-The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
+The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/> icon) and several other projects with active AI Alliance participation.
 
 ### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
@@ -208,23 +213,23 @@ Real-world use of AI involves more than just models. What application patterns b
     <tbody>
        <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/AllyCat/" target="ac">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://github.com/The-AI-Alliance/AllyCat/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/" target="ac-repo">repo</a>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1" target="ac-dashboard">dashboard</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/issues" target="ac-issues">issues</a>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions" target="ac-discussions">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions">discussions</a>
             </li>
           </ul>
         </td>
@@ -620,6 +625,8 @@ Advocacy is about educating the public, policy officials, and others about the b
     </tbody>
   </table>
 </div>
+<!-- focus areas: end -->
+<!-- WARNING: Don't remove the previous comment! See notes above. -->
 
 ## For More Information
 
