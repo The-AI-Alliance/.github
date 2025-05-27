@@ -540,6 +540,32 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/pdf-parsing-for-science/">Parsing PDFs to Build AI Datasets for Science</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/39">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          There is a need for domain-specific datasets for tuning special-purpose models and use in data-heavy application patterns like RAG. In many technical domains, much of the expertise is published in the open, but difficult to exploit as AI training data. For example, while text extraction from PDFs is already common, extracting information from the tables and images in technical PDFs, and associating that information with the surrounding text, is not yet widespread. This project aims to solve this problem by applying the recently-developed <a href="https://docling-project.github.io/docling/">Docling</a> tool to parse PDF datasets and create new datasets in formats that preserve this rich content, yet are easier to exploit in model training, tuning, etc. The project will start with the <a href="https://huggingface.co/datasets/PleIAs/Math-PDF">Math-PDF</a> dataset of PDFs published recently by <a href="https://pleias.fr/">PleIAs</a>.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://github.com/IBM/terratorch">TerraTorch</a>
         </td>
       </tr>
