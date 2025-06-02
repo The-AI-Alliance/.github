@@ -500,7 +500,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-model-initiative/">Open Models</a>
+          <a href="https://thealliance.ai/focus-areas/foundation-models-datasets">Open Models</a>
         </td>
       </tr>
       <tr>
