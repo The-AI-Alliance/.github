@@ -4,7 +4,7 @@ Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai)
 
 The AI Alliance is focused on accelerating and disseminating open innovation across the AI technology landscape to improve foundational capabilities, safety, security and trust in AI, and to responsibly maximize benefits to people and society everywhere.
 
-## Applying AI in the Real World
+## Applying AI in the AI Alliance's Open Agent Lab
 
 A key goal is to make Open-Source AI Agents successful in the real world.
 That requires applying, learning, and distilling best practices and technology.
@@ -23,8 +23,13 @@ The domains we are initially focused on are listed below.  Coming soon we will a
 
 - [Bartlebot](https://github.com/The-AI-Alliance/bartlebot)
 
+### Finance
+
+- Banking use case (Coming soon)
+
 ### Geospatial
 
+- Geospatial Use Case (Coming soon)
 - GEO-Bench-2 (Coming soon)
 
 ### Llama Stack Lab
