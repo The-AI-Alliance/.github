@@ -73,6 +73,32 @@ The Open Agent Lab builds with open weight models from our members, including **
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/discussions">discussions</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/wiki">wiki</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          AgentLabUI is a web-based interface designed to simplify the creation, management, and deployment of AI agents. It supports integration with Gofannon tools, enabling developers and researchers to rapidly prototype and experiment with sophisticated AI agent architectures.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
@@ -81,9 +107,6 @@ The Open Agent Lab builds with open weight models from our members, including **
           <ul>
             <li>
               <a href="https://github.com/The-AI-Alliance/gofannon/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22">dashboard</a>
             </li>
             <li>
               <a href="https://github.com/The-AI-Alliance/gofannon/issues">issues</a>
