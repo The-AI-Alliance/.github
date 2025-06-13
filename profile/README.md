@@ -148,6 +148,32 @@ The Open Agent Lab builds with open weight models from our members, including **
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://ibm.github.io/mcp-context-forge/">MCP Gateway</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/IBM/projects/118">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com">IBM</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/applying-ai-guide/">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
