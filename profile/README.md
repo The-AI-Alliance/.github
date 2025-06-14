@@ -1,47 +1,277 @@
 # The AI Alliance
 
-Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai), a community of technology creators, developers, and adopters collaborating to advance safe, responsible, and effective AI rooted in open innovation. Here, Alliance members collaborate on technical initiatives, AI technology guides, and related projects. 
+Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai), our hub for learning, using, and contributing to the AI Alliance's open source AI projects and work groups.
 
-The AI Alliance is focused on accelerating and disseminating open innovation across the AI technology landscape to improve foundational capabilities, safety, security and trust in AI, and to responsibly maximize benefits to people and society everywhere.
+The AI Alliance is focused on advancing open source AI and the open science that drives it. We seek to both support existing projects and capabiities that are becoming essential to the communtiy, as well as come together to create new projects that address major challenges and opportunities in open source AI, especially in data, evaluation, safety, and domain-specific AI agents.
 
-## Applying AI in the Real World
-
-A key goal is to make Open-Source AI Agents successful in the real world.
-That requires applying, learning, and distilling best practices and technology.
-Our open use cases demonstrate patterns, recipes, and blue prints in specific domains of application.
-
-They address domain-specific challenges for LLMs and other aspects of AI systems.
-
-The domains we are initially focused on are listed below.  Coming soon we will add: Finance, Health, and Chemistry.
-
-### Semiconductor
-
-- [SemiKong](https://github.com/aitomatic/semikong)
-- OpenDXA (Coming soon)
-
-### Legal
-
-- [Bartlebot](https://github.com/The-AI-Alliance/bartlebot)
-
-### Geospatial
-
-- GEO-Bench-2 (Coming soon)
-
-### Llama Stack Lab
-
-Platforms such as [Llama Stack](https://github.com/meta-llama/llama-stack) are the common technical basis for the domain-specifi examples.
-We are organizing several demonstrates of Llama Stack in action in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab)
+The projects on this page represent a curated set of high priority initiatives from across the AI community. They are organized into several Focus Areas. Projects that are Managed by the AI Alliance are indicated with the <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/> icon. Other projects are managed by members and Supported by the AI Alliance. You can learn more about our lightweight approach to open source AI project governance and how we seek to support founders and project leaders [here](https://thealliance.ai/governance).
 
 <!-- 
 WARNING: Don't remove the next comment or the "focus areas: end" comment below. 
 They are used for automated copying of this content to the-ai-alliance.github.com repo.
 -->
 <!-- focus areas: start -->
+
 ## Focus Areas
 
-The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/> icon) and several other projects with active AI Alliance participation.
 
-### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
+### [The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source](https://thealliance.ai/focus-areas/applications-and-tools)
+
+The Open Agent Lab is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+
+We are especially focused on domain-speciic challenges with work groups in: 
+
+**Industrial AI:** check out [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
+
+**Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
+
+**Climate and Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
+
+**Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
+
+**(Coming soon.)** Finance, Health, and Time Series domain work groups.
+  
+The Open Agent Lab builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more.
+  
+
+### Agent Projects
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+       <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/AllyCat/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          (Beginner friendly!) Get started with a simple and fun end to end RAG application that scrapes your website so you can ask it questions. 
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/discussions">discussions</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/wiki">wiki</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          AgentLabUI is a web-based interface designed to simplify the creation, management, and deployment of AI agents. It supports integration with Gofannon tools, enabling developers and researchers to rapidly prototype and experiment with sophisticated AI agent architectures.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/gofannon/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/gofannon/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/gofannon/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A repository of functions consumable by other agent frameworks.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/proscenium/">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A lightweight, composable library and several demo applications.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          Llama Stack Agents <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-example">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-example/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-example/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/applying-ai-guide/">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Tips from experts on using AI for various applications, including popular <i>design patterns</i>.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/31">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          If you are a software developer, you are accustomed to writing deterministic tests. What do you do when generative models aren't deterministic?
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          OpenDXA (coming soon!) <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1">Interest form</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Domain Expert Agents (DXA) for industrial AI. (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://docling-project.github.io/docling/">Docling</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/docling-project/docling/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+### [Llama Stack](https://github.com/meta-llama/llama-stack)
+
+(coming soon to AI Alliance) The Llama Stack project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents. 
+
+We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab) part of the Open Agent Lab.
+
+
+### [Evaluation and Safety](https://thealliance.ai/focus-areas/trust-and-safety)
 
 How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs?
 
@@ -198,216 +428,11 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
-### [Focus Area: Agents, Applications, and Tools](https://thealliance.ai/focus-areas/applications-and-tools)
 
-Real-world use of AI involves more than just models. What application patterns best complement the strengths and weaknesses of models? Are there domain-specific considerations?
 
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-       <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/AllyCat/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          End to end RAG application that scrapes your website so you can ask it questions. 
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/gofannon/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/gofannon/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/gofannon/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A repository of functions consumable by other agent frameworks.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/proscenium/">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A lightweight, composable library and several demo applications.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          Llama Stack Example App <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-example">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-example/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-example/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/applying-ai-guide/">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Tips from experts on using AI for various applications, including popular <i>design patterns</i>.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/31">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          If you are a software developer, you are accustomed to writing deterministic tests. What do you do when generative models aren't deterministic?
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          OpenDXA (coming soon!) <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1">Interest form</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Domain Expert Agents (DXA) for industrial AI. (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://docling-project.github.io/docling/">Docling</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/docling-project/docling/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+### [Deployment and Scaling](https://thealliance.ai/focus-areas/hardware-enablement) 
 
-### [Focus Area: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement) 
-
-While NVIDIA GPUs are the dominant AI accelerators, alternatives are useful for different price vs. performance trade offs, including deployments to _edge devices_, like phones. How do we ensure that the software stack we use supports different accelerator options?
+Deploying and scaling AI systems, especially to the growing diversity of hardware accelerators for AI, and efficently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
 
 <div class="table-wrapper">
   <table>
@@ -445,7 +470,7 @@ While NVIDIA GPUs are the dominant AI accelerators, alternatives are useful for 
   </table>
 </div>
 
-### [Focus Area: Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets) 
+### [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets) 
 
 Datasets with clear license for use, backed by unambiguous provenance and governance controls, are needed to train and tune models. A variety of models are needed, not just for English text, but multilingual, multimodal, and domain specific, like models for molecular discovery, geospatial, and time series.
 
@@ -614,45 +639,6 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
   </table>
 </div>
 
-### [Focus Area: Advocacy](https://thealliance.ai/focus-areas/advocacy)
-
-Advocacy is about educating the public, policy officials, and others about the benefits of openness for AI, as well as the implications for safety and reliability.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/">AAAI 25: Workshop on Open-Source AI for Mainstream Use</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>A workshop at <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 25</a> that explored practical challenges using AI.</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- focus areas: end -->
-<!-- WARNING: Don't remove the previous comment! See notes above. -->
 
 ## For More Information
 
