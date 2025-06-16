@@ -6,8 +6,12 @@ The AI Alliance is focused on advancing open source AI and the open science that
 
 The projects on this page represent a curated set of high priority initiatives from across the AI community. They are organized into several Focus Areas. Projects that are Managed by the AI Alliance are indicated with the <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/> icon. Other projects are managed by members and Supported by the AI Alliance. You can learn more about our lightweight approach to open source AI project governance and how we seek to support founders and project leaders [here](https://thealliance.ai/governance).
 
-<!-- 
-WARNING: Don't remove the next comment or the "focus areas: end" comment below. 
+> **The AI Alliance Events**
+>
+> Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
+
+<!--
+WARNING: Don't remove the next comment or the "focus areas: end" comment below.
 They are used for automated copying of this content to the-ai-alliance.github.com repo.
 -->
 <!-- focus areas: start -->
@@ -19,7 +23,7 @@ They are used for automated copying of this content to the-ai-alliance.github.co
 
 The Open Agent Lab is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
-We are especially focused on domain-speciic challenges with work groups in: 
+We are especially focused on domain-speciic challenges with work groups in:
 
 **Industrial AI:** check out [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
 
@@ -30,9 +34,9 @@ We are especially focused on domain-speciic challenges with work groups in:
 **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
 
 **(Coming soon.)** Finance, Health, and Time Series domain work groups.
-  
+
 The Open Agent Lab builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more.
-  
+
 
 ### Agent Projects
 
@@ -68,7 +72,7 @@ The Open Agent Lab builds with open weight models from our members, including **
           </ul>
         </td>
         <td>
-          (Beginner friendly!) Get started with a simple and fun end to end RAG application that scrapes your website so you can ask it questions. 
+          (Beginner friendly!) Get started with a simple and fun end to end RAG application that scrapes your website so you can ask it questions.
         </td>
       </tr>
       <tr>
@@ -292,7 +296,7 @@ The Open Agent Lab builds with open weight models from our members, including **
 
 ### [Llama Stack](https://github.com/meta-llama/llama-stack)
 
-(coming soon to AI Alliance) The Llama Stack project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents. 
+(coming soon to AI Alliance) The Llama Stack project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents.
 
 We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab) part of the Open Agent Lab.
 
@@ -335,7 +339,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           </ul>
         </td>
         <td>
-          TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects: 
+          TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects:
           <ul>
             <li>
               <strong>Taxonomy:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/taxonomy/taxonomy/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy">current work</a>
@@ -456,7 +460,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
 
 
 
-### [Deployment and Scaling](https://thealliance.ai/focus-areas/hardware-enablement) 
+### [Deployment and Scaling](https://thealliance.ai/focus-areas/hardware-enablement)
 
 Deploying and scaling AI systems, especially to the growing diversity of hardware accelerators for AI, and efficently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
 
@@ -496,7 +500,7 @@ Deploying and scaling AI systems, especially to the growing diversity of hardwar
   </table>
 </div>
 
-### [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets) 
+### [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets)
 
 Datasets with clear license for use, backed by unambiguous provenance and governance controls, are needed to train and tune models. A variety of models are needed, not just for English text, but multilingual, multimodal, and domain specific, like models for molecular discovery, geospatial, and time series.
 
@@ -532,7 +536,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
           </ul>
         </td>
         <td>
-          <em>Open data</em> has clear license for use, across a wide range of topic areas, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world’s datasets that meet the criteria. Our projects: 
+          <em>Open data</em> has clear license for use, across a wide range of topic areas, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world’s datasets that meet the criteria. Our projects:
           <ul>
             <li>
               <strong>Open Dataset Catalog:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/catalog/catalog/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+catalog%22">current work</a>
@@ -564,10 +568,10 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
               <a href="https://www.semikong.ai/">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/">Aitomatic</a>, <a href="https://www.tel.com/">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/">FPT Software</a>, and  <a href="https://thealliance.ai">The AI Alliance</a>)
             </li>
             <li>
-              Llamarine (coming soon!) - An LLM tuned specifically for the needs of the maritime industry. 
+              Llamarine (coming soon!) - An LLM tuned specifically for the needs of the maritime industry.
             </li>
             <li>
-              <a href="https://thealliance.ai/working-groups/materials-and-chemistry">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/">IBM Research</a>): 
+              <a href="https://thealliance.ai/working-groups/materials-and-chemistry">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/">IBM Research</a>):
               <ul>
                 <li>
                   <a href="https://huggingface.co/ibm/materials.smi-ted">smi-ted</a> - SMILES-based Transformer Encoder-Decoder (SMILES-TED) is an encoder-decoder model pre-trained on a curated dataset of 91 million SMILES samples sourced from PubChem, equivalent to 4 billion molecular tokens. SMI-TED supports various complex tasks, including quantum property prediction, with two main variants (289M and 8×289M).
