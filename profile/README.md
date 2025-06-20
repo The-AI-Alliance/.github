@@ -147,7 +147,7 @@ The Open Agent Lab builds with open weight models from our members, including **
           </ul>
         </td>
         <td>
-          A lightweight, composable library and several demo applications.
+          Collaborative, Asynchronous Human/Agent Interactions.
         </td>
       </tr>
       <tr>
