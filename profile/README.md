@@ -152,6 +152,32 @@ The Open Agent Lab builds with open weight models from our members, including **
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/lapidarist/">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Flapidarist%22">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Document enrichment and knowledge structure (eg knowledge graph) extraction and resolution.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           Llama Stack Agents <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
