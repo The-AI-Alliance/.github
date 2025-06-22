@@ -227,6 +227,29 @@ The Open Agent Lab builds with open weight models from our members, including **
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">Enkrypt AI Secure MCP Gateway</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway/issues" target="_blank">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement.
+          It sits between your MCP client and MCP servers. So, by it's nature it itself also acts as an MCP server as well as an MCP client.
+          When your MCP client connects to the Gateway, it acts as an MCP server. When the Gateway connects to the actual MCP server, it acts as an MCP client
+          (Principal developer: <a href="https://www.enkryptai.com/" target="_blank">Enkrypt AI</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/applying-ai-guide/">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
