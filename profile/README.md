@@ -201,51 +201,51 @@ The Open Agent Lab builds with open weight models from our members, including **
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://ibm.github.io/mcp-context-forge/" target="_blank">MCP Gateway</a>
+          <a href="https://ibm.github.io/mcp-context-forge/">MCP Gateway</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/IBM/mcp-context-forge" target="_blank">repo</a>
+              <a href="https://github.com/IBM/mcp-context-forge">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/IBM/projects/118" target="_blank">dashboard</a>
+              <a href="https://github.com/orgs/IBM/projects/118">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/IBM/mcp-context-forge/issues" target="_blank">issues</a>
+              <a href="https://github.com/IBM/mcp-context-forge/issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/IBM/mcp-context-forge/discussions" target="_blank">discussions</a>
+              <a href="https://github.com/IBM/mcp-context-forge/discussions">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com">IBM</a>)
         </td>
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">Enkrypt AI Secure MCP Gateway</a>
+          <a href="https://github.com/enkryptai/secure-mcp-gateway">Enkrypt AI Secure MCP Gateway</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">repo</a>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway">repo</a>
             </li>
             <li>
-              <a href="https://github.com/enkryptai/secure-mcp-gateway/issues" target="_blank">issues</a>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway/issues">issues</a>
             </li>
           </ul>
         </td>
         <td>
-          This Secure MCP Gateway is built with authentication, automatic tool discovery, caching, and guardrail enforcement.
-          It sits between your MCP client and MCP servers. So, by it's nature it itself also acts as an MCP server as well as an MCP client.
-          When your MCP client connects to the Gateway, it acts as an MCP server. When the Gateway connects to the actual MCP server, it acts as an MCP client
-          (Principal developer: <a href="https://www.enkryptai.com/" target="_blank">Enkrypt AI</a>)
+          A secure MCP gateway built with authentication, automatic tool discovery, caching, and guardrail enforcement.
+          It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
+          When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client. 
+          (Principal developer: <a href="https://www.enkryptai.com/">Enkrypt AI</a>)
         </td>
       </tr>
       <tr>
