@@ -14,8 +14,16 @@ The projects on this page represent a curated set of high priority initiatives f
 WARNING: Don't remove the next comment or the "focus areas: end" comment below.
 They are used for automated copying of this content to the-ai-alliance.github.com repo.
 -->
-<!-- focus areas: start -->
+<!-- regional chapters: start -->
+## AI Alliance Regional Chapters 
 
+The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist
+
+**[Japan](https://the-ai-alliance.github.io/japan/)**
+>
+**India**
+
+<!-- focus areas: start -->
 ## Focus Areas
 
 
