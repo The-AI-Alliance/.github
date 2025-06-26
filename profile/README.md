@@ -753,4 +753,3 @@ The [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation
 * The [AI Alliance website](https://thealliance.ai): About the AI Alliance, our goals and initiatives.
     * Learn more about [getting involved](https://thealliance.ai/community).
 
-![Alliance image](https://avatars.githubusercontent.com/u/150073668?s=400&u=1d9276d2b5d3094297f17679a8ce415876d8b98e&v=4)
