@@ -26,12 +26,13 @@ The AI Alliance is a global organization. However, localization matters and is k
 <!-- focus areas: start -->
 ## Focus Areas
 
+<a id="open-agent-lab-description" class="anchor"></a>
 
 ### The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source
 
 The [Open Agent Lab](https://the-ai-alliance.github.io/open-agent-lab/) is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
-We are especially focused on domain-speciic challenges with work groups in:
+We are especially focused on domain-specific challenges with work groups in:
 
 **Industrial AI:** check out [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
 
@@ -43,7 +44,7 @@ We are especially focused on domain-speciic challenges with work groups in:
 
 **(Coming soon.)** Finance, Health, and Time Series domain work groups.
 
-The Open Agent Lab builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more.
+The _Open Agent Lab_ builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more.
 
 
 ### Agent Projects
@@ -52,7 +53,7 @@ These projects are divided into three tables, one table for the _Open Agent Lab_
 
 #### Open Agent Lab
 
-The _Open Agent Lab_ is a platform supporting many of the other initiatives and projects.
+The _Open Agent Lab_ is a platform supporting many of the other initiatives and projects, as discussed [above](#open-agent-lab-description).
 
 <div class="table-wrapper">
   <table>
@@ -370,7 +371,7 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
 
 (coming soon to AI Alliance) The [Llama Stack](https://github.com/meta-llama/llama-stack) project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents.
 
-We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab) part of the Open Agent Lab. See also [Llama Stack Agents](#general-purpose-agent-projects) discussed under [General Purpose Agent Projects](#general-purpose-agent-projects) above.
+We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab) part of the [Open Agent Lab](#open-agent-lab). See also [Llama Stack Agents](#general-purpose-agent-projects) discussed under [General Purpose Agent Projects](#general-purpose-agent-projects) above.
 
 
 ### Evaluation and Safety
