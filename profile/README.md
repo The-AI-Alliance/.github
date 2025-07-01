@@ -16,7 +16,7 @@ They are used for automated copying of this content to the-ai-alliance.github.co
 -->
 
 <!-- regional chapters: start -->
-## AI Alliance Regional Chapters 
+## AI Alliance Regional Chapters
 
 The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
 
@@ -29,7 +29,7 @@ The AI Alliance is a global organization. However, localization matters and is k
 
 ### The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source
 
-The [Open Agent Lab](https://thealliance.ai/focus-areas/applications-and-tools) is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The [Open Agent Lab](https://the-ai-alliance.github.io/open-agent-lab/) is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
 We are especially focused on domain-speciic challenges with work groups in:
 
@@ -48,7 +48,50 @@ The Open Agent Lab builds with open weight models from our members, including **
 
 ### Agent Projects
 
-These projects are divided into two tables, one table for projects related to [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) and a second table for the more general-purpose agent projects.
+These projects are divided into three tables, one table for the _Open Agent Lab_, one table for projects related to [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) and a third table for the more general-purpose agent projects.
+
+#### Open Agent Lab
+
+The _Open Agent Lab_ is a platform supporting many of the other initiatives and projects.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/open-agent-lab/">Open Agent Lab</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/open-agent-lab">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/41/views/2">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/open-agent-lab/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/open-agent-lab/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The Open Agent Lab aims to provide cluster and software resources for R&D in AI agent technologies and demonstration applications for effective use of agents in real-world contexts. Hence, it promotes both the evolution of effective agent technologies and it provides educational resources for developers using agent technologies. The Lab supports many other initiatives and projects in the Alliance, as discussed below.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 #### Model Context Protocol
 
@@ -106,7 +149,7 @@ These projects are divided into two tables, one table for projects related to [M
         <td>
           A secure MCP gateway built with authentication, automatic tool discovery, caching, and guardrail enforcement.
           It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
-          When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client. 
+          When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client.
           (Principal developer: <a href="https://www.enkryptai.com/">Enkrypt AI</a>)
         </td>
       </tr>
@@ -272,7 +315,7 @@ These projects are divided into two tables, one table for projects related to [M
           </ul>
         </td>
         <td>
-          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
+          Deployable, domain-specific applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
         </td>
       </tr>
       <tr>
@@ -300,19 +343,22 @@ These projects are divided into two tables, one table for projects related to [M
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          OpenDXA (coming soon!) <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://aitomatic.github.io/opendxa/">OpenDXA with Dana</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
+              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">Announcement</a>
+            </li>
+            <li>
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1">Interest form</a>
             </li>
           </ul>
         </td>
         <td>
-          Domain Expert Agents (DXA) for industrial AI. (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
+          Domain Expert Agents (DXA) for industrial AI moves beyond AI coding assistants. It helps you write agents that learn, adapt, and improve themselves in production. The Dana language bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code> primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> ("pipe") operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
         </td>
       </tr>
     </tbody>
@@ -752,4 +798,3 @@ The [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
 * The [AI Alliance website](https://thealliance.ai): About the AI Alliance, our goals and initiatives.
     * Learn more about [getting involved](https://thealliance.ai/community).
-
