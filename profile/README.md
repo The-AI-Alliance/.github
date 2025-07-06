@@ -1,38 +1,27 @@
-# The AI Alliance
+<!-- NOTE to page ontributors: please keep this page simple and focused on guiding people to discover, use, and contribute to projects. -->
 
-Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai), our hub for learning, using, and contributing to the AI Alliance's open source AI projects and work groups.
+# Welcome to the AI Alliance
 
-The AI Alliance is focused on advancing open source AI and the open science that drives it. We seek to both support existing projects and capabiities that are becoming essential to the communtiy, as well as come together to create new projects that address major challenges and opportunities in open source AI, especially in data, evaluation, safety, and domain-specific AI agents.
+You found the [AI Alliance](https://thealliance.ai) Github, where you can learn, use, and contribute to our open source AI projects.
 
-The projects on this page represent a curated set of high priority initiatives from across the AI community. They are organized into several Focus Areas. Projects that are Managed by the AI Alliance are indicated with the <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/> icon. Other projects are managed by members and Supported by the AI Alliance. You can learn more about our lightweight approach to open source AI project governance and how we seek to support founders and project leaders [here](https://thealliance.ai/governance).
-
-> **The AI Alliance Events**
->
-> Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
+The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance). 
 
 <!--
 WARNING: Don't remove the next comment or the "focus areas: end" comment below.
 They are used for automated copying of this content to the-ai-alliance.github.com repo.
 -->
 
-<!-- regional chapters: start -->
-# AI Alliance Regional Chapters
-
-The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
-
-* [Japan](https://the-ai-alliance.github.io/japan/)
-* India - coming soon!
-
 <!-- focus areas: start -->
-# Focus Areas
+# The Open Agent Lab
 
 <a id="open-agent-lab-description" class="anchor"></a>
 
-## The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source
+### Collaborate, Experiment, and Build Production-ready Open Source Agents
 
-The [Open Agent Lab](https://the-ai-alliance.github.io/open-agent-lab/) is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The Open Agent Lab is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
-We are especially focused on domain-specific challenges with work groups in:
+## Agent Reference Architecture Hub 
+(In progress - coming soon!) The agent architecture hub is a repository of continually updated domain-specific architectures for developing and deploying agents based on the output of our work groups, which include AI researchers, engineers, and subject matter experts from industry leading organizations. Here is some of our initial work:
 
 **Industrial AI:** check out [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
 
@@ -42,18 +31,23 @@ We are especially focused on domain-specific challenges with work groups in:
 
 **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
 
-**(Coming soon.)** Finance, Health, and Time Series domain work groups.
+**(Coming soon.)** Finance, Health, and Time Series work groups.
 
-The _Open Agent Lab_ builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more.
+
+
+
+
+<!--don't think we need this
+The _Open Agent Lab_ builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more as well as other open source AI projects from the AI Alliance and community.
 
 
 ## Agent Projects
 
 These projects are divided into three tables, one table for the _Open Agent Lab_, one table for projects related to [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) and a third table for the more general-purpose agent projects.
 
-### Open Agent Lab
+### Agent Lab Experimentation Platform
 
-The _Open Agent Lab_ is a platform supporting many of the other initiatives and projects, as discussed [above](#open-agent-lab-description).
+The _Open Agent Lab Platform_ is a project that provides a platform to support the work of our working groups and projects, as discussed [above](#open-agent-lab-description).
 
 <div class="table-wrapper">
   <table>
@@ -94,7 +88,69 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
   </table>
 </div>
 
-### Model Context Protocol
+-->
+
+## Llama Stack and Llama Stack Agents
+
+(Onboarding...) The [Llama Stack](https://github.com/meta-llama/llama-stack) project provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <td class="project-title" colspan="2">
+          Llama Stack Agents <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Deployable, domain-specific use case applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          Llama Stack
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/meta-llama/llama-stack">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/meta-llama/llama-stack/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/meta-llama/llama-stack/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Deployable, domain-specific use case applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+## Model Context Protocol and Tooling Ecosystem
+MCP from Anthropic is quickly becoming an industry standard for agentic tool-calling and data interactions. The AI Alliance is striving to advance this protocol and establish a robust set of tooling around it to enable broad, high value trusted use in production. Here is a start of that:
 
 <div class="table-wrapper">
   <table>
@@ -158,7 +214,36 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
   </table>
 </div>
 
-### General Purpose Agent Projects
+## AI-Powered Programming Language for Agents
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://aitomatic.github.io/opendxa/">OpenDXA with Dana</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">Announcement</a>
+            </li>
+            <li>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1">Interest form</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Domain Expert Agents (DXA) for industrial AI moves beyond AI coding assistants. It helps you write agents that learn, adapt, and improve themselves in production. The Dana language bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code> primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> ("pipe") operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Agent Knowledge and Tool Foundations
 
 <div class="table-wrapper">
   <table>
@@ -169,32 +254,6 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
       </tr>
     </thead>
     <tbody>
-       <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/AllyCat/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          (Beginner friendly!) Get started with a simple and fun end-to-end RAG application that scrapes your website so you can ask it questions.
-        </td>
-      </tr>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -296,6 +355,7 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
           Document enrichment and knowledge structure (eg knowledge graph) extraction and resolution.
         </td>
       </tr>
+      <!--
       <tr>
         <td class="project-title" colspan="2">
           Llama Stack Use Cases <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -319,6 +379,7 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
           Deployable, domain-specific use case applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
         </td>
       </tr>
+      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/applying-ai-guide/">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -342,6 +403,7 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
           Tips from experts on using AI for various applications, including popular <i>design patterns</i>.
         </td>
       </tr>
+      <!--
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://aitomatic.github.io/opendxa/">OpenDXA with Dana</a>
@@ -362,21 +424,47 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
           Domain Expert Agents (DXA) for industrial AI moves beyond AI coding assistants. It helps you write agents that learn, adapt, and improve themselves in production. The Dana language bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code> primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> ("pipe") operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
         </td>
       </tr>
+      -->
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/AllyCat/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          (Beginner friendly!) Get started with a simple and fun end-to-end RAG application that scrapes your website so you can ask it questions.
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
 
-### Llama Stack
 
-(Coming soon) The [Llama Stack](https://github.com/meta-llama/llama-stack) project from Meta provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
+# Governance, Evaluation and Safety
 
-We are creating several reference implementations for domain-specific use cases on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab) deployed on the [Open Agent Lab](#open-agent-lab). See also _Llama Stack Agents_ under [General Purpose Agent Projects](#general-purpose-agent-projects) above.
+Safety, accuracy, red-teaming, security, compliance and more. Deployng a trusted AI system or agent is complex and the gap from prototype ot prodcution is still alrge for most people and organizations. The AI Alliance is supporting and creating a set ofproject and work groups aimed at ensuring agents in production deliver as advertised and can become a trusted foundation to build a business, educate students, perform scientific research, and much more.
 
-## Evaluation and Safety
-
+<!-- above replaced the below
 How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs? Our [Evaluation and Safety](https://thealliance.ai/focus-areas/trust-and-safety) projects and initiatives address these concerns.
 
 Trust actually has a broad interpretation. Increasingly, organizations moving from proofs of concept to production are not only concerned about evaluating their chosen models and applications for safety, but also for general _alignment_; do they actually perform well for the specific use cases implemented? This focus area is now exploring these areas of evaluation, in general terms and for specific domains.
+-->
 
 <div class="table-wrapper">
   <table>
@@ -389,7 +477,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Trust and Safety Evaluations Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/trust-safety-evals/">AI Alliance Evaluation Hub</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -410,7 +498,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           </ul>
         </td>
         <td>
-          TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects:
+          The AI Alliance evaluation hub seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), a catalog available of implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects:
           <ul>
             <li>
               <strong>Taxonomy:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/taxonomy/taxonomy/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy">current work</a>
@@ -427,6 +515,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           </ul>
         </td>
       </tr>
+      <!--
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -453,6 +542,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
+      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ai-application-testing/">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -557,7 +647,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
-## Open, Trusted Data and Models
+# Open Trusted Data and Models
 
 The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets) focus area has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
 
@@ -650,6 +740,7 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
           </ul>
         </td>
       </tr>
+      <!--
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/pdf-parsing-for-science/">Parsing PDFs to Build AI Datasets for Science</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -676,6 +767,7 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
           There is a need for domain-specific datasets for tuning special-purpose models and use in data-heavy application patterns like RAG. In many technical domains, much of the expertise is published in the open, but difficult to exploit as AI training data. For example, while text extraction from PDFs is already common, extracting information from the tables and images in technical PDFs, and associating that information with the surrounding text, is not yet widespread. This project aims to solve this problem by applying the recently-developed <a href="https://docling-project.github.io/docling/">Docling</a> tool to parse PDF datasets and create new datasets in formats that preserve this rich content, yet are easier to exploit in model training, tuning, etc. The project will start with the <a href="https://huggingface.co/datasets/PleIAs/Math-PDF">Math-PDF</a> dataset of PDFs published recently by <a href="https://pleias.fr/">PleIAs</a>. See also <em>Docling</em>, discussed next.
         </td>
       </tr>
+      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://docling-project.github.io/docling/">Docling</a>
@@ -749,7 +841,7 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
   </table>
 </div>
 
-## Deployment and Scaling
+# Deployment and Scaling
 
 [Deploying and scaling AI systems](https://thealliance.ai/focus-areas/hardware-enablement), especially to the growing diversity of hardware accelerators for AI, and efficiently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
 
@@ -790,8 +882,22 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
 </div>
 
 
-# For More Information
+<!-- regional chapters: start -->
+# AI Alliance Regional Chapters
 
+The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
+
+* [Japan](https://the-ai-alliance.github.io/japan/)
+* India - coming soon!
+* Paris - coming soon!
+
+
+<!-- events: start -->
+## Events
+Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
+
+
+## Additional Information
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/)
     * [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) to the AI Alliance [community](https://github.com/The-AI-Alliance/community).
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
