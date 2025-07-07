@@ -27,7 +27,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 **Expert knowledge / Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
 
-**Finance / Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
+**Finance:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
 
 **Climate and Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
 
