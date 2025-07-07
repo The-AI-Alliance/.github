@@ -23,15 +23,17 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 ## Agent Reference Architecture Hub 
 (In progress - coming soon!) The agent architecture hub is a repository of continually updated domain-specific architectures for developing and deploying agents based on the output of our work groups, which include AI researchers, engineers, and subject matter experts from industry leading organizations. Here is some of our initial work:
 
-**Industrial AI:** check out [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
+**Industrial AI / Semiconductors:** check out [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
 
 **Expert knowledge / Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
 
+**Finance / Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
+
 **Climate and Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
 
-**Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
+<!-- **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted). -->
 
-**(Coming soon.)** Finance, Health, and Time Series work groups.
+**(Coming soon.)** Materials, Health, and Time Series work groups.
 
 
 
