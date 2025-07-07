@@ -142,7 +142,7 @@ The _Open Agent Lab Platform_ is a project that provides a platform to support t
           </ul>
         </td>
         <td>
-          Deployable, domain-specific use case applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
+          Advancing the core <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a> project.
         </td>
       </tr>
     </tbody>
