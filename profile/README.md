@@ -460,12 +460,10 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
 
 # Governance, Evaluation and Safety
 
-Safety, accuracy, red-teaming, security, compliance and more. Deployng a trusted AI system or agent is complex and the gap from prototype ot prodcution is still alrge for most people and organizations. The AI Alliance is supporting and creating a set ofproject and work groups aimed at ensuring agents in production deliver as advertised and can become a trusted foundation to build a business, educate students, perform scientific research, and much more.
+Safety, accuracy, red-teaming, security, compliance and more are required for successful AI applications. How do we know that AI applications are _trustworthy_, that they are _safe_, meaning free of harmful outputs, that they correctly implement the required behaviors? The following projects address these concerns.
 
-<!-- above replaced the below
-How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs? Our [Evaluation and Safety](https://thealliance.ai/focus-areas/trust-and-safety) projects and initiatives address these concerns.
-
-Trust actually has a broad interpretation. Increasingly, organizations moving from proofs of concept to production are not only concerned about evaluating their chosen models and applications for safety, but also for general _alignment_; do they actually perform well for the specific use cases implemented? This focus area is now exploring these areas of evaluation, in general terms and for specific domains.
+<!--
+Deploying a trusted AI system or agent is complex and the gap from prototype to production is still large for most organizations. The AI Alliance has several projects aimed at ensuring agents in production deliver as advertised and can become a trusted foundation to build a business, educate students, perform scientific research, and much more.
 -->
 
 <div class="table-wrapper">
@@ -479,7 +477,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-evals/">AI Alliance Evaluation Hub</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Trust and Safety Evaluation</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -500,10 +498,10 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           </ul>
         </td>
         <td>
-          The AI Alliance evaluation hub seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), a catalog available of implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects:
+          The AI Alliance Evaluation addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety and 2) it should be as easy as possible add trust and safety capabilities to AI applications. Our projects:
           <ul>
             <li>
-              <strong>Taxonomy:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/taxonomy/taxonomy/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy">current work</a>
+              <strong>Catalog of Evaluations:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/taxonomy/taxonomy/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy">current work</a>
             </li>
             <li>
               <strong>Evaluation Implementations:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/evaluators/evaluators/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Aevaluators">current work</a>
@@ -517,7 +515,6 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           </ul>
         </td>
       </tr>
-      <!--
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -544,7 +541,6 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
-      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ai-application-testing/">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -651,7 +647,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
 
 # Open Trusted Data and Models
 
-The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets) focus area has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
+The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets) work group has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
 
 <div class="table-wrapper">
   <table>
