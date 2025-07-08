@@ -4,7 +4,7 @@
 
 You found the [AI Alliance](https://thealliance.ai) Github, where you can learn, use, and contribute to our open source AI projects.
 
-The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance). 
+The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance).
 
 <!--
 WARNING: Don't remove the next comment or the "focus areas: end" comment below.
@@ -31,25 +31,15 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 **Climate and Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
 
-<!-- **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted). -->
+<!--
+**Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
+-->
 
 **(Coming soon.)** Materials, Health, and Time Series work groups.
 
+## Llama Stack and Llama Stack Agents
 
-
-
-
-<!--don't think we need this
-The _Open Agent Lab_ builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more as well as other open source AI projects from the AI Alliance and community.
-
-
-## Agent Projects
-
-These projects are divided into three tables, one table for the _Open Agent Lab_, one table for projects related to [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) and a third table for the more general-purpose agent projects.
-
-### Agent Lab Experimentation Platform
-
-The _Open Agent Lab Platform_ is a project that provides a platform to support the work of our working groups and projects, as discussed [above](#open-agent-lab-description).
+(Onboarding...) The [Llama Stack](https://github.com/meta-llama/llama-stack) project provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
 
 <div class="table-wrapper">
   <table>
@@ -60,45 +50,6 @@ The _Open Agent Lab Platform_ is a project that provides a platform to support t
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-agent-lab/">Open Agent Lab</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/open-agent-lab">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/41/views/2">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/open-agent-lab/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/open-agent-lab/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          The Open Agent Lab aims to provide cluster and software resources for R&D in AI agent technologies and demonstration applications for effective use of agents in real-world contexts. Hence, it promotes both the evolution of effective agent technologies and it provides educational resources for developers using agent technologies. The Lab supports many other initiatives and projects in the Alliance, as discussed below.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
--->
-
-## Llama Stack and Llama Stack Agents
-
-(Onboarding...) The [Llama Stack](https://github.com/meta-llama/llama-stack) project provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
       <tr>
         <td class="project-title" colspan="2">
           Llama Stack Agents <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -152,7 +103,8 @@ The _Open Agent Lab Platform_ is a project that provides a platform to support t
 
 
 ## Model Context Protocol and Tooling Ecosystem
-MCP from Anthropic is quickly becoming an industry standard for agentic tool-calling and data interactions. The AI Alliance is striving to advance this protocol and establish a robust set of tooling around it to enable broad, high value trusted use in production. Here is a start of that:
+
+MCP from Anthropic is quickly becoming an industry standard for agentic tool-calling and data interactions. The AI Alliance is striving to advance this protocol and establish a robust set of tooling around it to enable broad, high value trusted use in production.
 
 <div class="table-wrapper">
   <table>
@@ -221,6 +173,12 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
 <div class="table-wrapper">
   <table>
     <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://aitomatic.github.io/opendxa/">OpenDXA with Dana</a>
@@ -405,28 +363,6 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
           Tips from experts on using AI for various applications, including popular <i>design patterns</i>.
         </td>
       </tr>
-      <!--
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://aitomatic.github.io/opendxa/">OpenDXA with Dana</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">Announcement</a>
-            </li>
-            <li>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1">Interest form</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Domain Expert Agents (DXA) for industrial AI moves beyond AI coding assistants. It helps you write agents that learn, adapt, and improve themselves in production. The Dana language bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code> primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> ("pipe") operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
-        </td>
-      </tr>
-      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://github.com/The-AI-Alliance/AllyCat/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -462,7 +398,7 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
 
 Safety, accuracy, red-teaming, security, compliance and more are required for successful AI applications. How do we know that AI applications are _trustworthy_, that they are _safe_, meaning free of harmful outputs, that they correctly implement the required behaviors? The following projects address these concerns.
 
-<!--
+<!-- obsolete...
 Deploying a trusted AI system or agent is complex and the gap from prototype to production is still large for most organizations. The AI Alliance has several projects aimed at ensuring agents in production deliver as advertised and can become a trusted foundation to build a business, educate students, perform scientific research, and much more.
 -->
 
@@ -498,7 +434,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           </ul>
         </td>
         <td>
-          The AI Alliance Evaluation addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety and 2) it should be as easy as possible add trust and safety capabilities to AI applications. Our projects:
+          Trust and Safety Evaluation addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety and 2) it should be as easy as possible add trust and safety capabilities to AI applications. Our projects:
           <ul>
             <li>
               <strong>Catalog of Evaluations:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/taxonomy/taxonomy/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy">current work</a>
@@ -513,32 +449,6 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
               <strong>Reference Runtime Stack:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/ref-stack/ref-stack/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3A%22reference+stack%22">current work</a>. Key components include <a href="https://www.eleuther.ai/projects/large-language-model-evaluation">lm-evaluation-harness</a> and <a href="https://www.unitxt.ai/">unitxt</a> (see also below).
             </li>
           </ul>
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ranking-safety-priorities">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/32">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ranking-safety-priorities/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ranking-safety-priorities/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
       <tr>
@@ -567,34 +477,32 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           If you are a software developer, you are accustomed to writing deterministic tests. What do you do when generative models aren't deterministic? This project adapts AI evaluation techniques for the "last mile" of evaluation; how do you verify that an AI application correctly implements its specific requirements and use cases, beyond the general concerns of common evaluation? This project also aims to educate developers on how to use these techniques effectively in combination with the traditional tools they already know.
         </td>
       </tr>
-      <!-- --
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/">Red Teaming Work Group</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group">repo</a>
+              <a href="https://github.com/The-AI-Alliance/ranking-safety-priorities">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/37">dashboard</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/32">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/issues">issues</a>
+              <a href="https://github.com/The-AI-Alliance/ranking-safety-priorities/issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/discussions">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/ranking-safety-priorities/discussions">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-          Red Teaming is a group activity that seeks to discover vulnerabilities in systems that could be exploited to make them behave in undesirable ways. Generative AI introduces new potential vulnerabilities, especially through prompts. The work of this group of experts consists of educational material and tools for doing red teaming work.
+          What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
-      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -738,34 +646,6 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
           </ul>
         </td>
       </tr>
-      <!--
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/pdf-parsing-for-science/">Parsing PDFs to Build AI Datasets for Science</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/39">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          There is a need for domain-specific datasets for tuning special-purpose models and use in data-heavy application patterns like RAG. In many technical domains, much of the expertise is published in the open, but difficult to exploit as AI training data. For example, while text extraction from PDFs is already common, extracting information from the tables and images in technical PDFs, and associating that information with the surrounding text, is not yet widespread. This project aims to solve this problem by applying the recently-developed <a href="https://docling-project.github.io/docling/">Docling</a> tool to parse PDF datasets and create new datasets in formats that preserve this rich content, yet are easier to exploit in model training, tuning, etc. The project will start with the <a href="https://huggingface.co/datasets/PleIAs/Math-PDF">Math-PDF</a> dataset of PDFs published recently by <a href="https://pleias.fr/">PleIAs</a>. See also <em>Docling</em>, discussed next.
-        </td>
-      </tr>
-      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://docling-project.github.io/docling/">Docling</a>
