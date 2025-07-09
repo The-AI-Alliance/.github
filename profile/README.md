@@ -579,7 +579,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
   </table>
 </div>
 
-# Open Trusted Data and Models
+# Open Trusted Data and Tooling
 
 The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets) work group has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
 
@@ -634,6 +634,48 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://docling-project.github.io/docling/">Docling</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/docling-project/docling/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
+        </td>
+      </tr>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+# Open Models and Tooling for New Domains and Modalities
+
+The AI Alliance is building new models for new domains and modalities at the interface of research and egnieering. Our projects include models for industrial AI, molecular discovery, geospatial, and time series applications.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://thealliance.ai/focus-areas/foundation-models-datasets">Open Models</a>
         </td>
       </tr>
@@ -670,29 +712,6 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
               More to be announced soon.
             </li>
           </ul>
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://docling-project.github.io/docling/">Docling</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/docling-project/docling/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
         </td>
       </tr>
       <tr>
