@@ -138,7 +138,30 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
           </ul>
         </td>
         <td>
-           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com">IBM</a>)
+           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE). (Principal developer: <a href="https://ibm.com">IBM</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/lastmile-ai/mcp-agent">LastMile AI MCP Agent</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/lastmile-ai/mcp-agent">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/lastmile-ai/mcp-agent/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/lastmile-ai/mcp-agent/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Build effective agents using Model Context Protocol and simple workflow patterns. (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
         </td>
       </tr>
       <tr>
