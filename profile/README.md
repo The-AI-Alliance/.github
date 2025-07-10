@@ -604,7 +604,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
 
 # Open Trusted Data and Tooling
 
-The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets) work group has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
+Good datasets are essential for building good models and applications. The AI Alliance is cataloging datasets, and in some cases building them, that have clear licenses for open use, backed by unambiguous provenance and governance constraints.
 
 <div class="table-wrapper">
   <table>
@@ -678,7 +678,6 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
           Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
         </td>
       </tr>
-      </tr>
     </tbody>
   </table>
 </div>
@@ -686,7 +685,7 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
 
 # Open Models and Tooling for New Domains and Modalities
 
-The AI Alliance is building new models for new domains and modalities at the interface of research and egnieering. Our projects include models for industrial AI, molecular discovery, geospatial, and time series applications.
+The AI Alliance is building new models for many domains and modalities at the intersection of research and engineering. Our projects include models for industrial AI, molecular discovery, geospatial, and time series applications.
 
 <div class="table-wrapper">
   <table>
