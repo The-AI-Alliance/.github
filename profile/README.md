@@ -1,4 +1,4 @@
-<!-- NOTE to page ontributors: please keep this page simple and focused on guiding people to discover, use, and contribute to projects. -->
+<!-- NOTE to page contributors: please keep this page simple and focused on guiding people to discover, use, and contribute to projects. -->
 
 # Welcome to the AI Alliance
 
@@ -215,6 +215,9 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
             </li>
             <li>
               <a href="https://github.com/nlip-project/ecma_draft1">NC-56 NLIP draft</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/nlip-project/projects/3">Dashboard</a>
             </li>
             <li>
               <a href="https://github.com/nlip-project/documents">Other Documents</a>
