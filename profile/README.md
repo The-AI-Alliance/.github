@@ -29,7 +29,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 **Finance:** see [Example Application for AI in Finance](https://the-ai-alliance.github.io/ai-in-finance-example-app/), a new collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
 
-**Climate and Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
+**Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
 
 <!--
 **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
