@@ -100,11 +100,9 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
   </table>
 </div>
 
+## Model Context Protocol (MCP) Ecosystem and Related Projects
 
-
-## Model Context Protocol and Tooling Ecosystem
-
-MCP from Anthropic is quickly becoming an industry standard for agentic tool-calling and data interactions. The AI Alliance is striving to advance this protocol and establish a robust set of tooling around it to enable broad, high value trusted use in production.
+The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) from [Anthropic](https://www.anthropic.com/) is quickly becoming an industry standard for communications between models, agents, data repositories, and other tools. The AI Alliance seeks to advance this protocol and foster a robust suite of tools around it to enable broad, trusted, and high-value use in production.
 
 <div class="table-wrapper">
   <table>
@@ -138,7 +136,7 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
           </ul>
         </td>
         <td>
-           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE). (Principal developer: <a href="https://ibm.com">IBM</a>)
+           A Model Context Protocol (MCP) Gateway that serves as a central management point for tools, resources, and prompts. It can be accessed by MCP-compatible LLM applications. It converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (e.g., stdio, SSE, etc.). (Principal developer: <a href="https://ibm.com">IBM</a>)
         </td>
       </tr>
       <tr>
@@ -185,6 +183,46 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
           It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
           When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client.
           (Principal developer: <a href="https://www.enkryptai.com/">Enkrypt AI</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### The NLIP Project
+
+The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other using natural language. It complements the broader role of MCP in component-to-component communications.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://nlip-project.org/">NLIP Project</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/nlip-project">GitHub org.</a>
+            </li>
+            <li>
+              <a href="https://github.com/nlip-project/ecma_draft1">NC-56 NLIP draft</a>
+            </li>
+            <li>
+              <a href="https://github.com/nlip-project/documents">Other Documents</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other using natural language. One outcome will be a new <a href="https://ecma-international.org/">ECMA</a> standard, <a href="https://github.com/nlip-project/ecma_draft1">TC-56 NLIP, Natural Language Interaction Protocol</a>. The organization is also developing reference implementations of the protocol and end-points. See the <a href="https://github.com/nlip-project">GitHub organization</a>.
         </td>
       </tr>
     </tbody>
