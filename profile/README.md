@@ -211,7 +211,7 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
         <td>
           <ul>
             <li>
-              <a href="https://github.com/nlip-project">GitHub org.</a>
+              <a href="https://github.com/nlip-project">GitHub org</a>
             </li>
             <li>
               <a href="https://github.com/nlip-project/ecma_draft1">NC-56 NLIP draft</a>
