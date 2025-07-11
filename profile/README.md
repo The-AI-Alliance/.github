@@ -222,7 +222,7 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
           </ul>
         </td>
         <td>
-          The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other using natural language. One outcome will be a new <a href="https://ecma-international.org/">ECMA</a> standard, <a href="https://github.com/nlip-project/ecma_draft1">TC-56 NLIP, Natural Language Interaction Protocol</a>. The organization is also developing reference implementations of the protocol and end-points. See the <a href="https://github.com/nlip-project">GitHub organization</a>.
+          The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other using natural language. One outcome will be a new <a href="https://ecma-international.org/">ECMA</a> standard, <a href="https://github.com/nlip-project/ecma_draft1">TC-56 NLIP, Natural Language Interaction Protocol</a>. The organization is also developing reference implementations of the protocol and end-points. See the <a href="https://github.com/nlip-project">GitHub organization</a> for details on these implementations.
         </td>
       </tr>
     </tbody>
