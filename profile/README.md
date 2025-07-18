@@ -2,16 +2,14 @@
 
 # Welcome to the AI Alliance
 
-You found the [AI Alliance](https://thealliance.ai) Github, where you can learn, use, and contribute to our open source AI projects.
+You found the [AI Alliance](https://thealliance.ai) Github organization, where you can learn, use, and contribute to our open source AI projects.
 
 The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance).
 
 <!--
-WARNING: Don't remove the next comment or the "focus areas: end" comment below.
-They are used for automated copying of this content to the-ai-alliance.github.com repo.
+WARNING: Don't remove the next comment nor the "end: focus areas" comment below. They are used for automated copying of this content to the-ai-alliance.github.com GitHub Pages repo.
 -->
-
-<!-- focus areas: start -->
+<!-- start: focus areas -->
 # The Open Agent Lab
 
 <a id="open-agent-lab-description" class="anchor"></a>
@@ -39,7 +37,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 ## Llama Stack and Llama Stack Agents
 
-(Onboarding...) The [Llama Stack](https://github.com/meta-llama/llama-stack) project provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
+The [Llama Stack](https://github.com/meta-llama/llama-stack) project provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
 
 <div class="table-wrapper">
   <table>
@@ -870,7 +868,11 @@ The AI Alliance is building new models for many domains and modalities at the in
 </div>
 
 
-<!-- regional chapters: start -->
+<!--
+WARNING: Don't remove the next comment nor the "start: focus areas" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
+-->
+<!-- end: focus areas -->
+
 # AI Alliance Regional Chapters
 
 The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
@@ -879,8 +881,6 @@ The AI Alliance is a global organization. However, localization matters and is k
 * India - coming soon!
 * Paris - coming soon!
 
-
-<!-- events: start -->
 ## Events
 Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
 
