@@ -157,7 +157,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-          Build effective agents using Model Context Protocol and simple workflow patterns. (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
+          Build effective agents using Model Context Protocol and simple workflow patterns. See the <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Example Application for AI in Finance</a>, discussed <a href="#agent-knowledge-and-tool-foundations">below</a>, which is built with this toolkit. (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
         </td>
       </tr>
       <tr>
@@ -402,7 +402,7 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
           </ul>
         </td>
         <td>
-          The <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Example Application for AI in Finance</a> project is a collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
+          The <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Example Application for AI in Finance</a> project is a collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications. This project uses the <a href="https://github.com/lastmile-ai/mcp-agent">LastMile AI MCP Agent</a>, discussed <a href="#model-context-protocol-mcp-ecosystem-and-related-projects">above</a>.
         </td>
       </tr>
       <!--
