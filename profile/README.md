@@ -68,7 +68,7 @@ The [Llama Stack](https://github.com/meta-llama/llama-stack) project provides st
           </ul>
         </td>
         <td>
-          Deployable, domain-specific use case applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
+          An easy-to-use demonstration application using <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>, two different UI options, and inference with a <a href="https://www.llama.com/models/llama-3/">Llama 3</a> model.
         </td>
       </tr>
       <tr>
