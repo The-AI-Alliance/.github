@@ -39,7 +39,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 The [Llama Stack](https://github.com/meta-llama/llama-stack) project standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, integrates with other open-source tools and managed services, and provides APIs for inference, evaluation, agents, [MCP](#model-context-protocol-section), and deployment requirements like observability. It is designed to support both on-premise and cloud deployments. The ecosystem provides many example applications to help developers build and deploy AI applications quickly and effectively.
 
-AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-alliance-accelerating-open-source-ai-innovation) to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The first example application, a simple getting started chat application, is described first in the table below. Others are in the planning stages. One planned project, also listed in the table, is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under discussion will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://events.thealliance.ai/llamastack)
+AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-alliance-accelerating-open-source-ai-innovation) to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The first example application, a simple getting-started chatbot, is described first in the table below. Others are in the planning stages. One planned project, also listed in the table, is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://events.thealliance.ai/llamastack)
 
 <div class="table-wrapper">
   <table>
@@ -70,7 +70,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
           </ul>
         </td>
         <td>
-          An easy-to-use demonstration application using <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>, two different UI options, and inference with a <a href="https://www.llama.com/models/llama-3/">Llama 3</a> model.
+          An easy-to-use demonstration chatbot using <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>, two different UI options, and inference with a <a href="https://www.llama.com/models/llama-3/">Llama 3</a> model.
         </td>
       </tr>
       <tr>
