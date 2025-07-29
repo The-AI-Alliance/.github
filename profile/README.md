@@ -37,9 +37,9 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 ## Llama Stack and Llama Stack Agents
 
-The [Llama Stack](https://github.com/meta-llama/llama-stack) project, which standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, provides standardized APIs, component abstractions, integrations with other open source tools and managed services, and provides example applications to help developers build and deploy AI applications and agents.
+The [Llama Stack](https://github.com/meta-llama/llama-stack) project standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, integrates with other open-source tools and managed services, and provides APIs for inference, evaluation, agents, [MCP](#model-context-protocol-section), and deployment requirements like observability. It is designed to support both on-premise and cloud deployments. The ecosystem provides many example applications to help developers build and deploy AI applications quickly and effectively.
 
-Alliance members are contributing directly to Llama Stack development, as well as building example applications that illustrate its use in various scenarios. The first example application, a simple getting started chat application, is described first in the table below. Others are in the planning stages. One planned project is a "deep research" application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under discussion will be chosen to cover other common application patterns seen in several industries.
+AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-alliance-accelerating-open-source-ai-innovation) to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The first example application, a simple getting started chat application, is described first in the table below. Others are in the planning stages. One planned project, also listed in the table, is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under discussion will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://events.thealliance.ai/llamastack)
 
 <div class="table-wrapper">
   <table>
@@ -71,6 +71,39 @@ Alliance members are contributing directly to Llama Stack development, as well a
         </td>
         <td>
           An easy-to-use demonstration application using <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>, two different UI options, and inference with a <a href="https://www.llama.com/models/llama-3/">Llama 3</a> model.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          Llama Stack Deep Research App <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+           <em>Coming soon.</em>
+        </td>
+        <td>
+          <em>Deep research</em> is an emerging, common application pattern for AI. The user asks for detailed information about a topic, for example the market performance and financials for a publicly-traded company, agents find relevant data from diverse sources, and finally an LLM digests the information retrieved and prepares a report. This planned project will demonstrate Llama Stack support for agent-based application development, including the use of protocols like <a href="#model-context-protocol-section">MCP</a>.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          Llama Stack Demos
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/opendatahub-io/llama-stack-demos">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/opendatahub-io/llama-stack-demos/issues">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          This repo contains examples of deploying and managing Llama Stack-based applications on Kubernetes and OpenShift.
         </td>
       </tr>
       <tr>
