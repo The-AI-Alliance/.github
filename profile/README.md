@@ -566,6 +566,29 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/trust-safety-user-guide">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/trust-safety-user-guide/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/trust-safety-user-guide/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          An introduction to trust and safety concepts from diverse experts, followed by recommendations for how to meet your application's needs. Start here if you are new to trust and safety, then leverage the projects discussed next to implement what you need.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ai-application-testing/">Achieving Confidence in Enterprise AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
@@ -666,29 +689,6 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
         </td>
         <td>
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/trust-safety-user-guide">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/trust-safety-user-guide/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/trust-safety-user-guide/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Introduction to T&amp;S with guidance from diverse experts.
         </td>
       </tr>
       <tr>
