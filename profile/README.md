@@ -239,7 +239,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
+          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
         </td>
       </tr>
       <tr>
