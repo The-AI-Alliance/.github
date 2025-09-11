@@ -25,7 +25,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 **Expert knowledge / Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
 
-**Finance:** see [Deep Research Agent for Finance](https://the-ai-alliance.github.io/ai-in-finance-example-app/), a new collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
+**Finance:** see [Deep Research Agent for Finance](https://the-ai-alliance.github.io/deep-research-agent-for-finance/), a new collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
 
 **Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
 
@@ -196,28 +196,28 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Deep Research Agent for Finance</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/ai-in-finance-example-app/">repo</a>
+              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-finance/">repo</a>
             </li>
             <li>
               <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/1">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/ai-in-finance-example-app/issues">issues</a>
+              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-finance/issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/ai-in-finance-example-app/discussions">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-finance/discussions">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-          The <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Deep Research Agent for Finance</a> project demonstrates MCP in action for a common design pattern, <em>Deep Research Agent</em>. This example shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). There are many other applications possible. The app is built on <a href="https://github.com/lastmile-ai/mcp-agent">MCP Agent</a>, developed by <a href="https://www.lastmileai.dev/">LastMile AI</a>, discussed next.
+          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a> project demonstrates MCP in action for a common design pattern, <em>Deep Research Agent</em>. This example shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). There are many other applications possible. The app is built on <a href="https://github.com/lastmile-ai/mcp-agent">MCP Agent</a>, developed by <a href="https://www.lastmileai.dev/">LastMile AI</a>, discussed next.
         </td>
       </tr>      <tr>
         <td class="project-title" colspan="2">
@@ -239,7 +239,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
+          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
         </td>
       </tr>
       <tr>
@@ -356,7 +356,7 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
 
 ## Agent Knowledge and Tool Foundations
 
-See also the <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/">Deep Research Agent for Finance</a>, which is discussed in the <a href="#model-context-protocol-section">MCP Ecosystem</a> section above.
+See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a>, which is discussed in the <a href="#model-context-protocol-section">MCP Ecosystem</a> section above.
 
 <div class="table-wrapper">
   <table>
