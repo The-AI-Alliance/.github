@@ -444,6 +444,32 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/semiont/">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fsemiont%22">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge.  Includes MCP server.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/proscenium/">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
