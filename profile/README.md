@@ -170,6 +170,32 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/enterprise-MCP/">MCP in the Enterprise: A User Guide</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           MCP has enormous potential to accelerate AI adoption in enterprises. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using MCP successfully in enterprise settings. It contains the first two chapters with many more planned. <a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/">Contributions are welcome!</a>. 
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://ibm.github.io/mcp-context-forge/">MCP Gateway</a>
         </td>
       </tr>
