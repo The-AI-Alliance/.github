@@ -797,6 +797,33 @@ Good datasets are essential for building good models and applications. The AI Al
               <strong>Data Pipelines to Validate Datasets:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/our-processing/">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22data+pipelines%22">current work</a>
             </li>
           </ul>
+          See also the SYNTH Initiative in the next row!
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/SYNTH-initiative/">SYNTH Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/SYNTH-initiative">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/44">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/SYNTH-initiative/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/SYNTH-initiative/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <em>SYNTH Iniutiative</em> ...
         </td>
       </tr>
       <tr>
