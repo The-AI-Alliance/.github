@@ -823,7 +823,7 @@ Good datasets are essential for building good models and applications. The AI Al
           </ul>
         </td>
         <td>
-          <em>SYNTH Iniutiative</em> ...
+          The SYNTH Initiative aims to address the critical gap in open-source AI development by creating a cutting-edge, open-source data corpus for training sovereign AI models and advanced AI agents. This involves curating permissively licensed, high-quality multimodal and multilingual datasets, with a focus on underrepresented languages, and generating synthetic data specifically designed to enhance frontier-level reasoning capabilities in these languages. The ultimate mission is to enable global access to advanced AI reasoning by fostering an inclusive data ecosystem that supports the full training pipeline of sophisticated models and agents. 
         </td>
       </tr>
       <tr>
