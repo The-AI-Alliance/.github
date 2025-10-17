@@ -73,12 +73,12 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-           MCP has enormous potential to accelerate AI adoption in enterprises. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using MCP successfully in enterprise settings. It contains the first two chapters with many more planned. <a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/">Contributions are welcome!</a>. 
+           MCP has enormous potential to accelerate AI adoption in enterprises. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using MCP successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/">Contributions are welcome!</a>.)
         </td>
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://ibm.github.io/mcp-context-forge/">MCP Gateway</a>
+          <a href="https://ibm.github.io/mcp-context-forge/">Context Forge</a>
         </td>
       </tr>
       <tr>
@@ -99,7 +99,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-           A Model Context Protocol (MCP) Gateway that serves as a central management point for tools, resources, and prompts. It can be accessed by MCP-compatible LLM applications. It converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (e.g., stdio, SSE, etc.). (Principal developer: <a href="https://ibm.com">IBM</a>)
+           Context Forge is an MCP gateway, which also supports <a href="https://a2a-protocol.org/latest/" target="a2a">A2A</a> and REST. It serves as a central management point for tools, resources, and prompts. It can be accessed by MCP-compatible LLM applications. It converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (e.g., stdio, SSE, etc.). (Principal developer: <a href="https://ibm.com">IBM</a>)
         </td>
       </tr>
       <tr>
