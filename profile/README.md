@@ -288,32 +288,6 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/discussions">discussions</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/wiki">wiki</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          AgentLabUI is a web-based interface designed to simplify the creation, management, and deployment of AI agents. It supports integration with Gofannon tools, enabling developers and researchers to rapidly prototype and experiment with sophisticated AI agent architectures.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
@@ -437,6 +411,55 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
         </td>
         <td>
           (Beginner friendly!) Get started with a simple and fun end-to-end RAG application that scrapes your website so you can ask it questions.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/bartlebot/">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Bartlebot is a demonstration of an AI Agent for the legal domain with a Slack integration. It is in early development.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/discussions">discussions</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/wiki">wiki</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          AgentLabUI is a web-based interface designed to simplify the creation, management, and deployment of AI agents. It supports integration with Gofannon tools, enabling developers and researchers to rapidly prototype and experiment with sophisticated AI agent architectures.
         </td>
       </tr>
       <tr>
