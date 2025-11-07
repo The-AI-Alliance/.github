@@ -636,10 +636,6 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
 
 Safety, accuracy, red-teaming, security, compliance, and more are required for successful AI applications. How do we know that AI applications are _trustworthy_, that they are _safe_, meaning free of harmful outputs, that they correctly implement the required behaviors? The following projects address these concerns.
 
-<!-- obsolete...
-Deploying a trusted AI system or agent is complex and the gap from prototype to production is still large for most organizations. The AI Alliance has several projects aimed at ensuring agents in production deliver as advertised and can become a trusted foundation to build a business, educate students, perform scientific research, and much more.
--->
-
 <div class="table-wrapper">
   <table>
     <thead>
@@ -801,6 +797,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
         </td>
       </tr>
+      <!--
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -827,6 +824,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
+      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://www.unitxt.ai/">unitxt</a>
