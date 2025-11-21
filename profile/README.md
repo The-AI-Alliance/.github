@@ -10,13 +10,13 @@ The projects on this page are a prioritized set from across our community, inclu
 WARNING: Don't remove the next comment nor the "end: focus areas" comment below. They are used for automated copying of this content to the-ai-alliance.github.com GitHub Pages repo.
 -->
 <!-- start: focus areas -->
-# The Open Agent Lab
+# The Open Agent Hub
 
 <a id="open-agent-lab-description" class="anchor"></a>
 
 ### Collaborate, Experiment, and Build Production-ready Open Source Agents
 
-The [Open Agent Lab](https://open-agent-lab.lovable.app) is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The Open Agent Hub is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
 ## Agent Reference Application Hub
 
