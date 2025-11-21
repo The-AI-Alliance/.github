@@ -12,7 +12,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
 <!-- start: focus areas -->
 # The Open Agent Hub
 
-<a id="open-agent-lab-description" class="anchor"></a>
+<a id="open-agent-hub-description" class="anchor"></a>
 
 ### Collaborate, Experiment, and Build Production-ready Open Source Agents
 
