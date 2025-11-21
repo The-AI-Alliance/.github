@@ -1,4 +1,4 @@
-<!-- NOTE to page contributors: please keep this page simple and focused on guiding people to discover, use, and contribute to projects. -->
+![AI Alliance Banner](https://github.com/The-AI-Alliance/.github/blob/main/profile/assets/ai-alliance-logo-horiz-pos-blue-cmyk-trans.png)
 
 # Welcome to the AI Alliance
 
