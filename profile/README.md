@@ -1129,5 +1129,6 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/)
     * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) guide.
     * A [glossary of terms](https://github.com/The-AI-Alliance/glossary) is shared by many of these websites.
+    * A glossary of terms, [website](https://the-ai-alliance.github.io/glossary/) and [repo](https://github.com/The-AI-Alliance/glossary), is shared by many of these websites.
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
 * The [AI Alliance website](https://thealliance.ai): About the AI Alliance, our goals and initiatives.
