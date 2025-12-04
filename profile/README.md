@@ -16,7 +16,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
     <thead>
       <tr>
         <th colspan="2" class="project-title">Open Agent Hub</th>
-        <th colspan="2" class="project-title">Open Model Foundry</th>
+        <th colspan="2" class="project-title">Open Models and Data</th>
       </tr>
     </thead>
     <tbody>
@@ -25,20 +25,22 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
           The The <a href="https://the-ai-alliance.github.io/open-agent-hub/">Open Agent Hub</a> is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
         </td>
         <td colspan="2">
-          The Open Model Foundry is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
+          The Open Models and Data Initiative is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
         </td>
       </tr>
       <tr>
-        <td colspan="2" class="project-subtitle">
-          <a href="open-agent-hub">Key Projects</a>
+        <td colspan="2">
+          <a href="open-agent-hub.md">Key Projects</a>
         </td>
         <td colspan="2">
-          <a href="open-model-and-data-hub">Key Projects</a>
+          <a href="open-model-and-data-hub.md">Key Projects</a>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
+
+These initiatives are supported by <a href="other-projects.md">these enabling projects</a>.
 
 <!--
 WARNING: Don't remove the next comment nor the "start: focus areas" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
