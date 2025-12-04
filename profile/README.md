@@ -22,7 +22,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
     <tbody>
       <tr>
         <td colspan="2">
-          The The <a href="https://the-ai-alliance.github.io/">Open Agent Hub</a> is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+          The The <a href="https://the-ai-alliance.github.io/open-agent-hub/">Open Agent Hub</a> is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
         </td>
         <td colspan="2">
           The Open Model Foundry is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
