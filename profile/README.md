@@ -30,26 +30,10 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
       </tr>
       <tr>
         <td colspan="2" class="project-subtitle">
-          Key Projects:
-        </td>
-        <td colspan="2" class="project-subtitle">
-          Key Projects:
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <a href="open-agent-hub">More details...</a>
+          <a href="open-agent-hub">Key Projects</a>
         </td>
         <td colspan="2">
-          <a href="open-model-and-data-hub">More details...</a>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <a href="open-agent-hub">More details...</a>
-        </td>
-        <td colspan="2">
-          <a href="open-model-and-data-hub">More details...</a>
+          <a href="open-model-and-data-hub">Key Projects</a>
         </td>
       </tr>
     </tbody>
