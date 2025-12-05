@@ -1,4 +1,3 @@
-
 # Open Models and Data
 
 ## Projects for Open Trusted Data and Tooling

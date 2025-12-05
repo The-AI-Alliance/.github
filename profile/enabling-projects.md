@@ -1,6 +1,6 @@
 # Enabling Projects
 
-Projects that support the objectives of the Open Agent Hub and the Open Model Foundry.
+Projects that support the objectives of the Open Agent Hub and the Open Models and Data Initiative.
 
 ## Governance, Evaluation, and Safety
 

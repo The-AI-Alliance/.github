@@ -2,25 +2,19 @@
 
 > Collaborate, experiment, and build production-ready, open-source agents.
 
-The [Open Agent Hub](https://the-ai-alliance.github.io/open-agent-hub/) is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The [Open Agent Hub](https://the-ai-alliance.github.io/open-agent-hub/) is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable reference architectures and enterprise-quality implementations.
 
-## Agent Reference Application Hub
+Our focus on domain-specific projects helps surface and address the challenges faced in those domains, which often surface for other domains. Our work groups include engineers, AI researchers, and subject matter experts from industry-leading organizations. Here is some of our initial work:
 
-(In progress - coming soon!) The agent reference application hub is a repository of continually updated domain-specific implementations and architectural components for developing and deploying agents based on the output of our work groups, which include AI researchers, engineers, and subject matter experts from industry leading organizations. Here is some of our initial work:
+**Industrial AI / Semiconductors:** See [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
 
-**Industrial AI / Semiconductors:** check out [SemiKong](https://github.com/aitomatic/semikong) a foundation model for semiconductor process agents.
+**Expert knowledge / Legal:** Try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
 
-**Expert knowledge / Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot) if you want to work with case law and other legal topics.
+**Finance:** See [Deep Research Agent for Finance](https://the-ai-alliance.github.io/deep-research-agent-for-finance/), a new collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
 
-**Finance:** see [Deep Research Agent for Finance](https://the-ai-alliance.github.io/deep-research-agent-for-finance/), a new collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
+**Geospatial:** See projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
 
-**Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench) and [TerraTorch](https://github.com/IBM/terratorch).
-
-<!--
-**Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
--->
-
-**(Coming soon.)** Materials, Health, and Time Series work groups.
+**Chemistry and Materials:** See the new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
 
 <a id="model-context-protocol-section"></a>
 ## Model Context Protocol (MCP) Ecosystem and Related Projects
@@ -135,29 +129,6 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
         </td>
         <td>
           Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/enkryptai/secure-mcp-gateway">Enkrypt AI Secure MCP Gateway</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/enkryptai/secure-mcp-gateway">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/enkryptai/secure-mcp-gateway/issues">issues</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A secure MCP gateway built with authentication, automatic tool discovery, caching, and guardrail enforcement.
-          It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
-          When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client.
-          (Principal developer: <a href="https://www.enkryptai.com/">Enkrypt AI</a>)
         </td>
       </tr>
     </tbody>
@@ -426,34 +397,6 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
           Bartlebot is a demonstration of an AI Agent for the legal domain with a Slack integration. It is in early development.
         </td>
       </tr>
-      <!--
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/discussions">discussions</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/wiki">wiki</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          AgentLabUI is a web-based interface designed to simplify the creation, management, and deployment of AI agents. It supports integration with Gofannon tools, enabling developers and researchers to rapidly prototype and experiment with sophisticated AI agent architectures.
-        </td>
-      </tr>
-      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/applying-ai-guide/">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
@@ -622,29 +565,3 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
     </tbody>
   </table>
 </div>
-
-<!--
-WARNING: Don't remove the next comment nor the "start: focus areas" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
--->
-<!-- end: focus areas -->
-
-# AI Alliance Regional Chapters
-
-The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
-
-* [Japan](https://the-ai-alliance.github.io/japan/)
-* [Thailand](https://the-ai-alliance.github.io/thailand/)
-* India - coming soon!
-* Paris - coming soon!
-
-## Events
-Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
-
-
-## Additional Information
-* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/)
-    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) guide.
-    * A [glossary of terms](https://github.com/The-AI-Alliance/glossary) is shared by many of these websites.
-    * A glossary of terms, [website](https://the-ai-alliance.github.io/glossary/) and [repo](https://github.com/The-AI-Alliance/glossary), is shared by many of these websites.
-    * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
-* The [AI Alliance website](https://thealliance.ai): About the AI Alliance, our goals and initiatives.

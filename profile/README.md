@@ -1,6 +1,6 @@
 ![AI Alliance Banner](https://github.com/The-AI-Alliance/.github/blob/main/profile/assets/ai-alliance-logo-horiz-pos-blue-cmyk-trans.png)
 
-# Welcome to The AI Alliance
+# Welcome to The AI Alliance Github Organization
 
 [The AI Alliance](https://thealliance.ai) Github organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
 
@@ -22,7 +22,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
     <tbody>
       <tr>
         <td colspan="2">
-          The The <a href="https://the-ai-alliance.github.io/open-agent-hub/">Open Agent Hub</a> is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+          The <a href="https://the-ai-alliance.github.io/open-agent-hub/">Open Agent Hub</a> is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and to build out new tools for development and deployment.
         </td>
         <td colspan="2">
           The Open Models and Data Initiative is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
@@ -33,7 +33,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
           <a href="open-agent-hub.md">Key Projects</a>
         </td>
         <td colspan="2">
-          <a href="open-model-and-data-hub.md">Key Projects</a>
+          <a href="open-models-and-data.md">Key Projects</a>
         </td>
       </tr>
     </tbody>
