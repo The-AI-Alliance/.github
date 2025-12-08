@@ -25,7 +25,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
           The <a href="https://the-ai-alliance.github.io/open-agent-hub/">Open Agent Hub</a> is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and to build out new tools for development and deployment.
         </td>
         <td colspan="2">
-          The Open Models and Data Initiative is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
+          The Open Models and Data Initiative is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and for agent-based applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
         </td>
       </tr>
       <tr>
@@ -61,9 +61,8 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
 
 
 ## Additional Information
-* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/)
-    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) guide.
+* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/):
+    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) guide and the [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="community"} of Alliance-sponsored and third-party AI events.
     * A [glossary of terms](https://github.com/The-AI-Alliance/glossary) is shared by many of these websites.
-    * A glossary of terms, [website](https://the-ai-alliance.github.io/glossary/) and [repo](https://github.com/The-AI-Alliance/glossary), is shared by many of these websites.
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
-* The [AI Alliance website](https://thealliance.ai): About the AI Alliance, our goals and initiatives.
+* The [AI Alliance website](https://aialliance.org): About the AI Alliance, our goals and initiatives.
