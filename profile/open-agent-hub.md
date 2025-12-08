@@ -1,8 +1,10 @@
-# The Open Agent Hub
+# The Open Agent Hub Projects
 
 > Collaborate, experiment, and build production-ready, open-source agents.
+> 
+> See the Open Agent Hub [website](https://the-ai-alliance.github.io/open-agent-hub/)
 
-The [Open Agent Hub](https://the-ai-alliance.github.io/open-agent-hub/) is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable reference architectures and enterprise-quality implementations.
+The **Open Agent Hub** is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable reference architectures and enterprise-quality implementations.
 
 Our focus on domain-specific projects helps surface and address the challenges faced in those domains, which often surface for other domains. Our work groups include engineers, AI researchers, and subject matter experts from industry-leading organizations. Here is some of our initial work:
 

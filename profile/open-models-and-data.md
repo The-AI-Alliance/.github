@@ -1,4 +1,8 @@
-# Open Models and Data
+# Open Models and Data Initiative Projects
+
+> Collaborate, experiment, and build data sets and models essential for building agent-based AI applications.
+
+The **Open Models and Data Initiative** addresses key needs for customized, domain-specific data sets and models.
 
 ## Projects for Open Trusted Data and Tooling
 
