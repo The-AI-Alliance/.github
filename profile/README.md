@@ -30,10 +30,10 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
       </tr>
       <tr>
         <td colspan="2">
-          <a href="open-agent-hub.md">Key Projects</a>
+          <a href="open-agent-hub-projects.md">Key Projects</a>
         </td>
         <td colspan="2">
-          <a href="open-models-and-data.md">Key Projects</a>
+          <a href="open-models-and-data-projects.md">Key Projects</a>
         </td>
       </tr>
     </tbody>
