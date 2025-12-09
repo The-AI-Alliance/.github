@@ -2,7 +2,7 @@
 
 > Collaborate on the necessary enablers of successful AI applications.
 
-In order for the objectives of the [Open Agent Hub](open-agent-hub-projects.md) and the [Open Models and Data Initiative](open-models-and-data-projects.md) to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively.
+In order for the objectives of the [Open Agent Hub](open-agent-hub-projects.md) and the [Open Data and Model Foundry](open-data-and-model-foundry-projects.md) to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively.
 
 **AI Safety** encompasses classic cybersecurity, as well as AI-specific concerns, such as suppression of undesirable content and compliance with regulations and social norms. A more general term is _trustworthiness_, which adds concerns about ensuring accuracy (i.e., minimizing hallucinations) and meeting the specific requirements for application use cases, etc. Enterprises won't deploy AI applications into production scenarios if they don't trust them to behave as expected.
 
