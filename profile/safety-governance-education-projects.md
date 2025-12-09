@@ -1,10 +1,16 @@
-# Enabling Projects
+# AI Safety, Governance, and Education
 
-Projects that support the objectives of the [Open Agent Hub](open-agent-hub-projects.md) and the [Open Models and Data Initiative](open-models-and-data-projects.md).
+> Collaborate on the necessary enablers of successful AI applications.
 
-## Governance, Evaluation, and Safety
+In order for the objectives of the [Open Agent Hub](open-agent-hub-projects.md) and the [Open Models and Data Initiative](open-models-and-data-projects.md) to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively.
 
-Safety, accuracy, red-teaming, security, compliance, and more are required for successful AI applications. How do we know that AI applications are _trustworthy_, that they are _safe_, meaning free of harmful outputs, that they correctly implement the required behaviors? The following projects address these concerns.
+**AI Safety** encompasses classic cybersecurity, as well as AI-specific concerns, such as suppression of undesirable content and compliance with regulations and social norms. A more general term is _trustworthiness_, which adds concerns about ensuring accuracy (i.e., minimizing hallucinations) and meeting the specific requirements for application use cases, etc. Enterprises won't deploy AI applications into production scenarios if they don't trust them to behave as expected.
+
+**Governance** is an aspect of trustworthiness, specifically the assurances that all end-to-end processes used to create all AI application components are secure, licensed for use, etc. AI models are created with data; they are mostly data themselves. Hence, models, like data,  need to be governed.
+
+Finally, **Education** addresses the needs where organizations struggle to learn all the things they need to know in order to use AI safely and effectively. Not only has AI introduced new tools and techniques to software application development, it has fundamentally altered some of the ways software works, for example, introducing _stochastic_ behaviors as core aspects of application features, where previously _deterministic_ behaviors were the norm. Most AI Alliance projects have dual missions, not only to innovate and create, but to educate.
+
+The following projects address these concerns.
 
 <div class="table-wrapper">
   <table>
@@ -216,46 +222,6 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
         </td>
         <td>
            Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## Deployment and Scaling
-
-[Deploying and scaling AI systems](https://thealliance.ai/focus-areas/hardware-enablement), especially to the growing diversity of hardware accelerators for AI, and efficiently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/">The AI Accelerator Software Ecosystem Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A guide to the most common AI accelerators and the software stacks they use to integrate with tools you know, like PyTorch.
         </td>
       </tr>
     </tbody>
