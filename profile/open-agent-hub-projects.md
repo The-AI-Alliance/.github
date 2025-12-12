@@ -140,7 +140,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
 </div>
 
 <a id="footnote-1"></a>
-<sup>1</sup> Indicates an Alliance <em>managed</em> project.
+<sup>1</sup> Indicates an Alliance <em>core</em> project.
 
 ### The NLIP Project
 
