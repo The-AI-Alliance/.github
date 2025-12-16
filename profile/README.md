@@ -4,6 +4,17 @@
 
 [The AI Alliance](https://aialliance.org) GitHub organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
 
+### Direct Links
+
+* Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
+* [Join](https://www.aialliance.org/join) the AI Alliance
+  * Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)
+  * Learn about our [community](https://github.com/The-AI-Alliance/community/)
+* [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
+* [Submit a use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
+
+## About Us
+
 The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports the success of essential open technology and research projects in the AI community with particular focus on data, models, and agents, including their governance and responsible use. We are dedicated to the benefit of AI for _all_ of society - not just industry and not just those who can pay to have a seat at the table. 
 
 We don’t just want to [host your project](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md), we want to actively support its development, community growth, and broad adoption! Our unique two-tiered approach of **Core** and **Supported** projects empowers project leaders:
