@@ -197,7 +197,9 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
   </table>
 </div>
 
-## AI-Powered Programming Language for Agents
+## Agent Development Tools
+
+See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>, discussed above in the <a href="#model-context-protocol-section">MCP section</a>.
 
 <div class="table-wrapper">
   <table>
@@ -208,6 +210,50 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/cube-standard/">CUBE Standard</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/cube-standard/issues" target="_blank">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <em>CUBE Standard</em> is meets a common necessity, to standardize benchmark wrapping so the community can wrap various otherwise-incompatible benchmarks uniformly and use them everywhere.
+          <br/><br/>
+          (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/AgentLab2/">AgentLab2</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AgentLab2/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AgentLab2/issues" target="_blank">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <em>AgentLab2</em> is an open-source framework and research initiative for building and evaluating UI agents.
+          <br/><br/>
+          (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
+        </td>
+      </tr>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://aitomatic.github.io/dana/">Dana — The Agent-Native Evolution of AI Development</a>
