@@ -6,10 +6,10 @@
 
 ### Direct Links
 
-* Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
+* Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo).
 * [Join](https://www.aialliance.org/join) the AI Alliance
-  * Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)
-  * Learn about our [community](https://github.com/The-AI-Alliance/community/)
+  * Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo).
+  * Learn about our [community](https://github.com/The-AI-Alliance/community/).
 * [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
 * [Submit a use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
 
@@ -68,8 +68,8 @@ The core and supported projects are grouped into the following categories:
 
 The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
 
-* [Japan](https://the-ai-alliance.github.io/japan/)
-* [Thailand](https://the-ai-alliance.github.io/thailand/)
+* [Japan](https://the-ai-alliance.github.io/japan/).
+* [Thailand](https://the-ai-alliance.github.io/thailand/).
 * India - coming soon!
 * Paris - coming soon!
 
