@@ -287,6 +287,32 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-fina
           (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
         </td>
       </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Agent Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/31">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI). (This project is also discussed under the <a href="safety-governance-education-projects.md">Open Agent Hub</a>)
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
