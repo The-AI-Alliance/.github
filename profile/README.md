@@ -76,10 +76,13 @@ The AI Alliance is a global organization. However, localization matters and is k
 ## Events
 Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
 
-
 ## Additional Information
+
+* The [AI Alliance website](https://aialliance.org): About the AI Alliance, our goals and initiatives.
+* Learn more about getting involved in our [community](https://www.aialliance.org/join). In particular. See also:
+  * Our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) guide.
+  * The [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events
+  * Other resources in our [community GitHub repo](https://github.com/The-AI-Alliance/community).
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/):
-    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) guide and the [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
     * A [glossary of terms](https://the-ai-alliance.github.io/glossary/glossary/) is used by many of these websites.
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
-* The [AI Alliance website](https://aialliance.org): About the AI Alliance, our goals and initiatives.
