@@ -2,7 +2,7 @@
 
 # Welcome to The AI Alliance GitHub Organization
 
-[The AI Alliance](https://aialliance.org) GitHub organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
+[The AI Alliance](https://www.aialliance.org) GitHub organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
 
 ### Direct Links
 
@@ -10,8 +10,9 @@
 * [Join](https://www.aialliance.org/join) the AI Alliance
   * Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo).
   * Learn about our [community](https://github.com/The-AI-Alliance/community/).
-* [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
-* [Submit a use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
+* [See the current projects](https://www.aialliance.org/projects).
+* [Submit a new project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
+* [Submit a new use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
 
 ## About Us
 
@@ -74,11 +75,11 @@ The AI Alliance is a global organization. However, localization matters and is k
 * Paris - coming soon!
 
 ## Events
-Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
+Come meet us and learn about AI! See our [full list](https://www.aialliance.org/events) of Alliance-sponsored and third-party AI events.
 
 ## Additional Information
 
-* The [AI Alliance website](https://aialliance.org): About the AI Alliance, our goals and initiatives.
+* The [AI Alliance website](https://www.aialliance.org): About the AI Alliance, our goals and initiatives.
 * Learn more about getting involved in our [community](https://www.aialliance.org/join). In particular. See also:
   * Our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) guide.
   * The [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events
