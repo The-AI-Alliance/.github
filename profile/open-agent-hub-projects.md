@@ -139,7 +139,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
+          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://www.aialliance.org/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
         </td>
       </tr>
     </tbody>
@@ -225,7 +225,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-fina
               <a href="https://github.com/aitomatic/dana/issues" target="_blank">issues</a>
             </li>
             <li>
-              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
+              <a href="https://www.aialliance.org/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
             </li>
             <!--
             <li>
@@ -512,7 +512,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
 
 The [Llama Stack](https://github.com/meta-llama/llama-stack) project standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, integrates with other open-source tools and managed services, and provides APIs for inference, evaluation, agents, [MCP](#model-context-protocol-section), and deployment requirements like observability. It is designed to support both on-premise and cloud deployments. The ecosystem provides many example applications to help developers build and deploy AI applications quickly and effectively.
 
-AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-alliance-accelerating-open-source-ai-innovation) to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The `llama-stack-examples` project has two initial example applications, described in the table below. The first  app is a simple getting-started chatbot that shows you the basics of creating an app with Llama Stack and how to run it. The second app (in development) is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://events.thealliance.ai/llamastack).
+AI Alliance members are contributing directly to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The `llama-stack-examples` project has two initial example applications, described in the table below. The first  app is a simple getting-started chatbot that shows you the basics of creating an app with Llama Stack and how to run it. The second app (in development) is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://www.aialliance.org/join).
 
 <div class="table-wrapper">
   <table>
@@ -651,7 +651,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
 
 ## Deployment and Scaling
 
-[Deploying and scaling AI systems](https://thealliance.ai/focus-areas/hardware-enablement) is critical for cost-effective use of AI. There is the growing diversity of hardware accelerators for AI, not only for servers, but for edge devices, too. Developers want the ability to write AI applications that efficiently and transparently scale across different deployment scenarios, from PoCs and single-node deployments on development laptops and edge devices, up to large-scale clustered deployments supporting many users.
+Deploying and scaling AI systems is critical for cost-effective use of AI. There is the growing diversity of hardware accelerators for AI, not only for servers, but for edge devices, too. Developers want the ability to write AI applications that efficiently and transparently scale across different deployment scenarios, from PoCs and single-node deployments on development laptops and edge devices, up to large-scale clustered deployments supporting many users.
 
 <div class="table-wrapper">
   <table>
