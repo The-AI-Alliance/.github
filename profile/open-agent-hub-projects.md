@@ -105,7 +105,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
               <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-finance/">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/1">dashboard</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/2">dashboard</a>
             </li>
             <li>
               <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-finance/issues">issues</a>
