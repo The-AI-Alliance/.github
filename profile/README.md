@@ -7,12 +7,14 @@
 ### Direct Links
 
 * Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo).
+* See our [events calendar](https://the-ai-alliance.github.io/event_database/).
 * [Join](https://www.aialliance.org/join) the AI Alliance
   * Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo).
   * Learn about our [community](https://github.com/The-AI-Alliance/community/).
 * [See the current projects](https://www.aialliance.org/projects).
 * [Submit a new project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
 * [Submit a new use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
+* New to AI? Check out our [glossary of terms](https://the-ai-alliance.github.io/glossary/).
 
 ## About Us
 
@@ -75,14 +77,15 @@ The AI Alliance is a global organization. However, localization matters and is k
 * Paris - coming soon!
 
 ## Events
-Come meet us and learn about AI! See our [full list](https://www.aialliance.org/events) of Alliance-sponsored and third-party AI events.
+
+Come meet us and learn about AI! See our [events calendar](https://the-ai-alliance.github.io/event_database/) for AI Alliance-sponsored and third-party events.
 
 ## Additional Information
 
 * The [AI Alliance website](https://www.aialliance.org): About the AI Alliance, our goals and initiatives.
 * Learn more about getting involved in our [community](https://www.aialliance.org/join). In particular. See also:
   * Our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) guide.
-  * The [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events
+  * The [full list](https://the-ai-alliance.github.io/event_database/) of Alliance-sponsored and third-party AI events
   * Other resources in our [community GitHub repo](https://github.com/The-AI-Alliance/community).
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/):
     * A [glossary of terms](https://the-ai-alliance.github.io/glossary/) is used by many of these websites.
