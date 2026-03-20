@@ -4,28 +4,19 @@
 > 
 > See the Open Agent Hub [website](https://the-ai-alliance.github.io/open-agent-hub/).
 
-### Direct Links
+The [**Open Agent Hub**](https://the-ai-alliance.github.io/open-agent-hub/) is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable reference patterns and example implementations.
 
-* [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
-* [Submit a use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
-
-The [**Open Agent Hub**](https://the-ai-alliance.github.io/open-agent-hub/) is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable reference architectures and enterprise-quality implementations.
-
-Our focus on domain-specific projects helps surface and address the unique challenges faced in particular domains, which apply in other domains, too. This is why we need to know your important use cases! 
+Focusing on domain-specific projects surfaces unique challenges that often generalize to other domains, too. 
 
 Our work groups include engineers, AI researchers, and subject matter experts from industry-leading organizations. Here is some of our work so far:
 
-**Industrial AI:** Examples include domain-specific models for **Semiconductor process agents** ([SemiKong](https://github.com/aitomatic/semikong) - [paper](https://arxiv.org/abs/2411.13802)) and **Marine Navigation** ([Llamarine](https://maritimetechnologyreview.com/2026/01/11/llamarine-ais-new-wave-for-smarter-maritime-navigation/) - [paper](https://arxiv.org/abs/2503.00203v3)).
+* **Industrial AI:** E.g., domain-specific models for **Semiconductor process agents** ([SemiKong](https://github.com/aitomatic/semikong) - [paper](https://arxiv.org/abs/2411.13802)) and **Marine Navigation** ([Llamarine](https://maritimetechnologyreview.com/2026/01/11/llamarine-ais-new-wave-for-smarter-maritime-navigation/) - [paper](https://arxiv.org/abs/2503.00203v3)).
+* **Deep Research in Finance, Medical, etc.:** [Deep Research Agent for Applications](https://the-ai-alliance.github.io/deep-research-agent-for-applications/) implements the widely-applicable agent pattern, _deep research_, with example applications for finance, medicine, and [ArXiv](https://arxiv.org) exploration.
+* **Expert Knowledge Graphs:** [Semiont](https://the-ai-alliance.github.io/semiont/), a Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge, and [Bartlebot](https://the-ai-alliance.github.io/bartlebot/), a demonstration AI Agent for the legal domain integrated with Slack. 
+* **Geospatial:** [GeoBench](https://github.com/ServiceNow/geo-bench), an Earth observation benchmark for evaluating LLM performance on geospatial data, and [TerraTorch](https://github.com/IBM/terratorch), a Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).
+* **Chemistry and Materials:** Foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
 
-**Finance, Medical, and Other Research Areas:** [Deep Research Agent for Applications](https://the-ai-alliance.github.io/deep-research-agent-for-applications/) is a collaboration between domain and AI experts to explore the practical challenges of building and running trustworthy, production-quality _deep research_ applications, with example applications for finance, medicine, and [ArXiv](https://arxiv.org) exploration.
-
-**Expert Knowledge / Graphs:** [Semiont](https://the-ai-alliance.github.io/semiont/) is a Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. [Bartlebot](https://the-ai-alliance.github.io/bartlebot/) is a demonstration AI Agent for the legal domain with a Slack integration. 
-
-**Geospatial:** [GeoBench](https://github.com/ServiceNow/geo-bench) is a general Earth observation benchmark for evaluating the performance of large models on geospatial data, and [TerraTorch](https://github.com/IBM/terratorch) is a Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).
-
-**Chemistry and Materials:** Foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted).
-
-We welcome your [feedback and help](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md), including [suggestions for new projects](https://events.thealliance.ai/aia-project) and [domain-specific use cases](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) of importance to you.
+We welcome your [feedback and help](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md), including suggestions for [new projects](https://events.thealliance.ai/aia-project) and [domain-specific use cases](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) of importance to you.
 
 <a id="model-context-protocol-section"></a>
 ## Agent Ecosystems with MCP, A2A, and Related Projects
@@ -245,10 +236,10 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">repo</a>
+              <a href="https://github.com/The-AI-Alliance/cube-standard/">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/cube-standard/issues" target="_blank">issues</a>
+              <a href="https://github.com/The-AI-Alliance/cube-standard/issues">issues</a>
             </li>
           </ul>
         </td>
@@ -267,10 +258,10 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">repo</a>
+              <a href="https://github.com/The-AI-Alliance/cube-harness/">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/cube-harness/issues" target="_blank">issues</a>
+              <a href="https://github.com/The-AI-Alliance/cube-harness/issues">issues</a>
             </li>
           </ul>
         </td>
@@ -312,17 +303,17 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
         <td>
           <ul>
             <li>
-              <a href="https://github.com/aitomatic/dana" target="_blank">repo</a>
+              <a href="https://github.com/aitomatic/dana">repo</a>
             </li>
             <li>
-              <a href="https://github.com/aitomatic/dana/issues" target="_blank">issues</a>
+              <a href="https://github.com/aitomatic/dana/issues">issues</a>
             </li>
             <li>
-              <a href="https://www.aialliance.org/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
+              <a href="https://www.aialliance.org/blog/the-ai-alliance-releases-new-ai-powered-programmin">blog post</a>
             </li>
             <!--
             <li>
-              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">announcement</a>
+              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)">announcement</a>
             </li>
             <li>
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1">Interest form</a>
