@@ -1,8 +1,6 @@
 # The Open Agent Hub Projects
 
 > Collaborate, experiment, and build production-ready, open-source agents.
-> 
-> See the Open Agent Hub [website](https://the-ai-alliance.github.io/open-agent-hub/).
 
 The [**Open Agent Hub**](https://the-ai-alliance.github.io/open-agent-hub/) is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable reference patterns and example implementations.
 
@@ -55,7 +53,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-           Model Context Protocol (MCP) has enormous potential to accelerate AI adoption in enterprises. Alternative protocols and complementary tools are also emerging rapidly. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using these tools successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/">Contributions are welcome!</a>.)
+           Model Context Protocol (MCP) has enormous potential to accelerate AI adoption in enterprises. Alternative protocols and complementary tools are also emerging rapidly. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using these tools successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/">Contributions are welcome!</a>)
         </td>
       </tr>
       <tr>
@@ -107,52 +105,9 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
           </ul>
         </td>
         <td>
-          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example explores recent medical research on diseases and pharmaceuticals. The third example supports finding and summarizing recent research papers posted to [ArXiv](https://arxiv.org). There are many other applications possible. The app is  built on <a href="https://github.com/lastmile-ai/mcp-agent">MCP Agent</a>, developed by <a href="https://www.lastmileai.dev/">LastMile AI</a>, discussed next.
+          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example explores recent medical research on diseases and pharmaceuticals. The third example supports finding and summarizing recent research papers posted to <a href="https://arxiv.org">ArXiv</a>. There are many other applications possible. The project is a collaboration of <a href="https://www.lastmileai.dev/">LastMile AI</a> and <a href="https://ibm.com">IBM</a>. It is based on LastMile's <a href="https://github.com/lastmile-ai/mcp-agent">MCP Agent</a>. See the <a href="https://www.aialliance.org/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on LastMile's lessons learned developing the <em>orchestration</em> feature in MCP Agent for deep research and related use cases. Highly informative!
         </td>
       </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/lastmile-ai/mcp-agent">LastMile AI MCP Agent</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/lastmile-ai/mcp-agent">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/lastmile-ai/mcp-agent/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/lastmile-ai/mcp-agent/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/">Deep Research Agent for Applications</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://www.aialliance.org/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/">LastMile AI</a>)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<a id="footnote-1"></a>
-<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
-
-### The NLIP Project
-
-The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/">MCP (and Beyond) in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://nlip-project.org/">NLIP Project</a>
@@ -162,13 +117,10 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
         <td>
           <ul>
             <li>
-              <a href="https://ecma-international.org/technical-committees/tc56/">TC-56</a> (Technical Committee 56)
+              <a href="https://ecma-international.org/technical-committees/tc56/">ECMA TC-56</a>
             </li>
             <li>
               <a href="https://github.com/nlip-project">GitHub org</a>
-            </li>
-            <li>
-              <a href="https://github.com/nlip-project/ecma_draft1">NC-56 NLIP draft</a>
             </li>
             <li>
               <a href="https://github.com/orgs/nlip-project/projects/3">dashboard</a>
@@ -179,14 +131,15 @@ The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the dev
           </ul>
         </td>
         <td>
-          The <a href="https://nlip-project.org/">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. NLIP is designed to perform the role of a meta-protocol that allows agents from other ecosystems to communicate with one another including interfaces with other protocols such as A2A, ACP, AGNTCY, MCP, NANDA, etc.
-          <br/><br/>
-          One outcome will be a new <a href="https://ecma-international.org/">ECMA</a> standard, <a href="https://ecma-international.org/technical-committees/tc56/">TC-56 NLIP, Natural Language Interaction Protocol</a> (<a href="https://github.com/nlip-project/ecma_draft1">draft</a>). The organization is also developing reference implementations of the protocol and end-points. See the <a href="https://github.com/nlip-project">GitHub organization</a> for details on these implementations.
+          The <a href="https://nlip-project.org/">NLIP project</a> developed an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. NLIP is designed to perform the role of a meta-protocol that allows agents from other ecosystems to communicate with one another including interfaces with other protocols such as A2A, ACP, AGNTCY, MCP, NANDA, etc. It is now an <a href="https://ecma-international.org/">ECMA</a> standard, <a href="https://ecma-international.org/technical-committees/tc56/">TC-56 NLIP, Natural Language Interaction Protocol</a>. The project is developing reference implementations of the protocol and end-points. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/">MCP (and Beyond) in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
         </td>
       </tr>
     </tbody>
   </table>
 </div>
+
+<a id="footnote-1"></a>
+<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
 
 ## Agent Development Tools
 
@@ -229,143 +182,60 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/cube-standard/">CUBE Standard</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          CUBE - Common Unified Benchmark Environment: <a href="https://github.com/The-AI-Alliance/cube-standard/"> Standard</a>, <a href="https://github.com/The-AI-Alliance/cube-harness/">Harness</a>, and <a href="https://github.com/The-AI-Alliance/cube-registry/">Registry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/cube-standard/">repo</a>
+            <li> Standard:
+              <ul>
+                <li>
+                  <a href="https://github.com/The-AI-Alliance/cube-standard/">repo</a>
+                </li>
+                <li>
+                  <a href="https://github.com/The-AI-Alliance/cube-standard/issues">issues</a>
+                </li>
+              </ul>
             </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/cube-standard/issues">issues</a>
+            <li> Harness:
+              <ul>
+                <li>
+                  <a href="https://github.com/The-AI-Alliance/cube-harness/">repo</a>
+                </li>
+                <li>
+                  <a href="https://github.com/The-AI-Alliance/cube-harness/issues">issues</a>
+                </li>
+              </ul>
+            </li>
+            <li> Registry:
+              <ul>
+                <li>
+                  <a href="https://github.com/The-AI-Alliance/cube-registry/">repo</a>
+                </li>
+                <li>
+                  <a href="https://github.com/The-AI-Alliance/cube-registry/issues">issues</a>
+                </li>
+              </ul>
             </li>
           </ul>
         </td>
         <td>
-          <em>Common Unified Benchmark Environment</em> meets a common necessity, to standardize benchmark wrapping so the community can integrate otherwise-incompatible benchmarks uniformly and use them everywhere. See also the companion projects, <strong>CUBE Harness</strong> and <strong>CUBE Registry</strong>, next.
-          <br/><br/>
+          <em>Common Unified Benchmark Environment</em> meets a common necessity, to standardize benchmark wrapping so the community can integrate otherwise-incompatible benchmarks uniformly and use them everywhere. The three projects include:
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/cube-standard/"> Standard</a>: The standards.
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/cube-harness/">Harness</a>: An open-source framework and research initiative for building and evaluating UI agents.
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/cube-registry/">Registry</a>: A community-maintained index of benchmarks that implement the CUBE standard. Any CUBE-compliant evaluation platform or training harness can discover and run registered benchmarks without custom integration.
+            </li>
+          </ul>
           (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
         </td>
       </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/cube-harness/">CUBE Harness</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/cube-harness/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/cube-harness/issues">issues</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          <em>CUBE Harness</em> is an open-source framework and research initiative for building and evaluating UI agents. See also the companion projects, <strong>CUBE Standard</strong> and <strong>CUBE Registry</strong>.
-          <br/><br/>
-          (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/cube-harness/">CUBE Registry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/cube-registry/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/cube-registry/issues">issues</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          <em>CUBE Registry</em> is a community-maintained index of benchmarks that implement the CUBE standard. Any CUBE-compliant evaluation platform or training harness can discover and run registered benchmarks without custom integration. See also the companion projects, <strong>CUBE Standard</strong> and <strong>CUBE Harness</strong>, above.
-          <br/><br/>
-          (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://cuga.dev">Configurable Generalist Agent</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/cuga-project/cuga-agent/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/cuga-project/cuga-agent/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/cuga-project/cuga-agent/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          CUGA is an open-source generalist agent framework from IBM Research, purpose-built for enterprise automation. Designed for developers, CUGA combines and improves the best of foundational agentic patterns such as ReAct, CodeAct, and Planner-Executor into a modular architecture enabling trustworthy, policy-aware, and composable automation across web interfaces, APIs, and custom enterprise systems.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://aitomatic.github.io/dana/">Dana — The Agent-Native Evolution of AI Development</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/aitomatic/dana">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/aitomatic/dana/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://www.aialliance.org/blog/the-ai-alliance-releases-new-ai-powered-programmin">blog post</a>
-            </li>
-            <!--
-            <li>
-              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)">announcement</a>
-            </li>
-            <li>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1">Interest form</a>
-            </li>
-            -->
-          </ul>
-        </td>
-        <td>
-          <em>Dana</em> is based on the question, &ldquo;What if your agents could learn, adapt, and improve itself in production—without you?&rdquo;
-          <br/><br/>
-          Dana bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code>primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> (&ldquo;pipe&rdquo;) operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## Agent Knowledge and Tool Foundations
-
-See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/">Deep Research Agent for Applications</a>, which is discussed <a href="#model-context-protocol-section">above</a>.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
@@ -391,80 +261,27 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/semiont/">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          <a href="https://aitomatic.github.io/dana/">Dana — The Agent-Native Evolution of AI Development</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/semiont/">repo</a>
+              <a href="https://github.com/aitomatic/dana">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fsemiont%22">dashboard</a>
+              <a href="https://github.com/aitomatic/dana/issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/semiont/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/semiont/discussions">discussions</a>
+              <a href="https://www.aialliance.org/blog/the-ai-alliance-releases-new-ai-powered-programmin">blog post</a>
             </li>
           </ul>
         </td>
         <td>
-          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge.  Includes MCP server.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/proscenium/">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Collaborative, Asynchronous Human/Agent Interactions.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/lapidarist/">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Flapidarist%22">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Document enrichment and knowledge structure (e.g., knowledge graph) extraction and resolution.
+          <em>Dana</em> is based on the question, &ldquo;What if your agents could learn, adapt, and improve itself in production—without you?&rdquo;
+          <br/><br/>
+          Dana bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code>primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> (&ldquo;pipe&rdquo;) operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
         </td>
       </tr>
       <tr>
@@ -495,25 +312,25 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/bartlebot/">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          <a href="https://cuga.dev">CUGA - Configurable Generalist Agent</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/">repo</a>
+              <a href="https://github.com/cuga-project/cuga-agent/">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/issues">issues</a>
+              <a href="https://github.com/cuga-project/cuga-agent/issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/discussions">discussions</a>
+              <a href="https://github.com/cuga-project/cuga-agent/discussions">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-          Bartlebot is a demonstration of an AI Agent for the legal domain with a Slack integration. It is in early development.
+          CUGA is an open-source generalist agent framework from IBM Research, purpose-built for enterprise automation. Designed for developers, CUGA combines and improves the best of foundational agentic patterns such as ReAct, CodeAct, and Planner-Executor into a modular architecture enabling trustworthy, policy-aware, and composable automation across web interfaces, APIs, and custom enterprise systems.
         </td>
       </tr>
       <tr>
@@ -536,7 +353,125 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
           </ul>
         </td>
         <td>
-          Tips from experts on using AI for various applications, including popular <i>design patterns</i>.
+          Tips from experts on using AI for various applications, including popular <i>design patterns</i>. (<a href="https://the-ai-alliance.github.io/applying-ai-guide/contributing/">Contributions are welcome!</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Knowledge Graphs for Agent Knowledge Bases
+
+A set of projects for building _knowledge bases_ using _knowledge graphs_.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/semiont/">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fsemiont%22">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. Includes MCP an server. See also the companion projects, <a href="https://the-ai-alliance.github.io/proscenium/">Proscenium</a>, <a href="https://the-ai-alliance.github.io/lapidarist/">Lapidarist</a>, and <a href="https://the-ai-alliance.github.io/bartlebot/">Bartlebot</a>, next.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/proscenium/">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           Collaborative, asynchronous human/agent interactions.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/lapidarist/">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Flapidarist%22">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Document enrichment and knowledge structure (e.g., knowledge graph) extraction and resolution.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/bartlebot/">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Bartlebot is a demonstration of an AI Agent for the legal domain with a Slack integration. It is in early development.
         </td>
       </tr>
     </tbody>
@@ -718,7 +653,7 @@ Deploying and scaling AI systems is critical for cost-effective use of AI. There
           </ul>
         </td>
         <td>
-          A guide to the most common AI accelerators and the software stacks they use to integrate with tools you know, like PyTorch.
+          A guide to the most common AI accelerators and the software stacks they use to integrate with tools you know, like PyTorch. (<a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/contributing/">Contributions are welcome!</a>)
         </td>
       </tr>
     </tbody>
