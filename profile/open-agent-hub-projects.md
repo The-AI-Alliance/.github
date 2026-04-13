@@ -244,7 +244,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           </ul>
         </td>
         <td>
-          <em>Common Unified Benchmark Environment</em> meets a common necessity, to standardize benchmark wrapping so the community can integrate otherwise-incompatible benchmarks uniformly and use them everywhere. See also the companion project, <strong>CUBE Harness</strong>, next.
+          <em>Common Unified Benchmark Environment</em> meets a common necessity, to standardize benchmark wrapping so the community can integrate otherwise-incompatible benchmarks uniformly and use them everywhere. See also the companion projects, <strong>CUBE Harness</strong> and <strong>CUBE Registry</strong>, next.
           <br/><br/>
           (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
         </td>
@@ -266,7 +266,29 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           </ul>
         </td>
         <td>
-          <em>CUBE Harness</em> is an open-source framework and research initiative for building and evaluating UI agents. See also the companion project, <strong>CUBE Standard</strong>, above.
+          <em>CUBE Harness</em> is an open-source framework and research initiative for building and evaluating UI agents. See also the companion projects, <strong>CUBE Standard</strong> and <strong>CUBE Registry</strong>.
+          <br/><br/>
+          (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/cube-harness/">CUBE Registry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/cube-registry/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/cube-registry/issues">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <em>CUBE Registry</em> is a community-maintained index of benchmarks that implement the CUBE standard. Any CUBE-compliant evaluation platform or training harness can discover and run registered benchmarks without custom integration. See also the companion projects, <strong>CUBE Standard</strong> and <strong>CUBE Harness</strong>, above.
           <br/><br/>
           (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
         </td>
