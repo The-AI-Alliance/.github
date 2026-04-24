@@ -188,7 +188,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       <tr>
         <td>
           <ul>
-            <li> Standard:
+            <li>Standard:
               <ul>
                 <li>
                   <a href="https://github.com/The-AI-Alliance/cube-standard/">repo</a>
@@ -224,7 +224,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           <em>Common Unified Benchmark Environment</em> meets a common necessity, to standardize benchmark wrapping so the community can integrate otherwise-incompatible benchmarks uniformly and use them everywhere. The three projects include:
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/cube-standard/"> Standard</a>: The standards.
+              <a href="https://github.com/The-AI-Alliance/cube-standard/">Standard</a>: The standards.
             </li>
             <li>
               <a href="https://github.com/The-AI-Alliance/cube-harness/">Harness</a>: An open-source framework and research initiative for building and evaluating UI agents.
