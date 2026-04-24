@@ -182,7 +182,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          CUBE - Common Unified Benchmark Environment: <a href="https://github.com/The-AI-Alliance/cube-standard/"> Standard</a>, <a href="https://github.com/The-AI-Alliance/cube-harness/">Harness</a>, and <a href="https://github.com/The-AI-Alliance/cube-registry/">Registry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          CUBE - Common Unified Benchmark Environment: <a href="https://github.com/The-AI-Alliance/cube-standard/">Standard</a>, <a href="https://github.com/The-AI-Alliance/cube-harness/">Harness</a>, and <a href="https://github.com/The-AI-Alliance/cube-registry/">Registry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
