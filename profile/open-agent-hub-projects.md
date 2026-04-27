@@ -145,6 +145,8 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
 
 See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/">Deep Research Agent for Applications</a>, discussed <a href="#model-context-protocol-section">above</a>.
 
+### CUBE - Common Unified Benchmark Environment
+
 <div class="table-wrapper">
   <table>
     <thead>
@@ -154,32 +156,6 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Agent Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/31">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="safety-governance-education-projects.md">AI Safety, Governance, and Education</a> projects.)
-        </td>
-      </tr>
       <tr>
         <td class="project-title" colspan="2">
           CUBE - Common Unified Benchmark Environment: <a href="https://github.com/The-AI-Alliance/cube-standard/">Standard</a>, <a href="https://github.com/The-AI-Alliance/cube-harness/">Harness</a>, and <a href="https://github.com/The-AI-Alliance/cube-registry/">Registry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
@@ -236,27 +212,68 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+### Other Agent Tools and Applications
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Agent Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/gofannon/">repo</a>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/gofannon/issues">issues</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/31">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/gofannon/discussions">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-          A repository of functions consumable by other agent frameworks.
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="safety-governance-education-projects.md">AI Safety, Governance, and Education</a> projects.)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://cuga.dev">CUGA - Configurable Generalist Agent</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/cuga-project/cuga-agent/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/cuga-project/cuga-agent/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/cuga-project/cuga-agent/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          CUGA is an open-source generalist agent framework from IBM Research, purpose-built for enterprise automation. Designed for developers, CUGA combines and improves the best of foundational agentic patterns such as ReAct, CodeAct, and Planner-Executor into a modular architecture enabling trustworthy, policy-aware, and composable automation across web interfaces, APIs, and custom enterprise systems.
         </td>
       </tr>
       <tr>
@@ -283,8 +300,31 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           <br/><br/>
           Dana bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code>primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> (&ldquo;pipe&rdquo;) operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/">Aitomatic</a>)
         </td>
+       </tr>
+       <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/gofannon/">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
       </tr>
       <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/gofannon/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/gofannon/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/gofannon/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A repository of functions consumable by other agent frameworks.
+        </td>
+      </tr>
+     <tr>
         <td class="project-title" colspan="2">
           <a href="https://github.com/The-AI-Alliance/AllyCat/">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
@@ -308,29 +348,6 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
         </td>
         <td>
           (Beginner friendly!) Get started with a simple and fun end-to-end RAG application that scrapes your website so you can ask it questions.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://cuga.dev">CUGA - Configurable Generalist Agent</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/cuga-project/cuga-agent/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/cuga-project/cuga-agent/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/cuga-project/cuga-agent/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          CUGA is an open-source generalist agent framework from IBM Research, purpose-built for enterprise automation. Designed for developers, CUGA combines and improves the best of foundational agentic patterns such as ReAct, CodeAct, and Planner-Executor into a modular architecture enabling trustworthy, policy-aware, and composable automation across web interfaces, APIs, and custom enterprise systems.
         </td>
       </tr>
       <tr>
