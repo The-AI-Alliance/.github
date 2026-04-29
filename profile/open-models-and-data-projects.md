@@ -1,8 +1,6 @@
-# Open Data and Model Foundry Projects
+# Open Model and Data Projects
 
-> Collaborate, experiment, and build data sets and models essential for building agent-based AI applications.
-
-The **Open Data and Model Foundry** addresses key needs for customized, domain-specific data sets and models.
+The **Open Model and Data Projects** address key needs for customized, domain-specific models and data sets, while addressing concerns for sovereignty and governance.
 
 ## Project Tapestry
 
