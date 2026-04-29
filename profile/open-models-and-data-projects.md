@@ -1,6 +1,6 @@
-# Open Model and Data Projects
+# Open Models and Data Projects
 
-The **Open Model and Data Projects** address key needs for customized, domain-specific models and data sets, while addressing concerns for sovereignty and governance.
+The **Open Models and Data Projects** address key needs for customized, domain-specific models and data sets, while addressing concerns for sovereignty and governance.
 
 ## Project Tapestry
 
