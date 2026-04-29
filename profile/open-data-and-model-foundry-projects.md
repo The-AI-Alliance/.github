@@ -8,9 +8,6 @@ The **Open Data and Model Foundry** addresses key needs for customized, domain-s
 
 Project Tapestry is a global initiative to build and tune foundation with full and flexible support for sovereignty concerns.
 
- [website](https://the-ai-alliance.github.io/tapestry).
-
-
 <div class="table-wrapper">
   <table>
     <thead>
