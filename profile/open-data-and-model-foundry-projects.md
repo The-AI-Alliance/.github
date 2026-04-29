@@ -4,6 +4,52 @@
 
 The **Open Data and Model Foundry** addresses key needs for customized, domain-specific data sets and models.
 
+## Project Tapestry
+
+Project Tapestry is a global initiative to build and tune foundation with full and flexible support for sovereignty concerns.
+
+ [website](https://the-ai-alliance.github.io/tapestry).
+
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/tapestry/">Project Tapestry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/tapestry">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/50">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/tapestry/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/tapestry/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The AI Alliance launched <em>Project Tapestry</em> to build a collaborative foundation for open and sovereign AI. Project Tapestry will be an open-source platform designed to enable globally federated development of frontier open models while preserving sovereignty, local control, and long-term independence.
+        </td>
+      </tr>
+    </tbody> 
+  </table>
+</div>
+
 ## Projects for Open Trusted Data and Tooling
 
 Good datasets are essential for building good models and applications. The AI Alliance is cataloging datasets, and in some cases building them, that have clear licenses for open use, backed by unambiguous provenance and governance constraints.
