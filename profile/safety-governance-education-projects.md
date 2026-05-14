@@ -14,6 +14,8 @@ The following projects address these concerns.
 
 ## Safety and Governance
 
+See also the discussion of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#cube---common-unified-benchmark-environment) in the [Open Agent Hub Projects](open-agent-hub-projects.md).
+
 <div class="table-wrapper">
   <table>
     <thead>
@@ -140,6 +142,26 @@ The following projects address these concerns.
           </p>
         </td>
       </tr>      
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/ibm-granite/granite.trust.policy-tools/">Granite Trust Policy Tools</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/ibm-granite/granite.trust.policy-tools/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/trust-policy-contrib">repo for community contributions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <em>Granite Trust Policy Tools</em> provides a tool kit for defining, implementing, and enforcing <em>policies</em>, open sourced by IBM. The AI Alliance repo <a href="https://github.com/The-AI-Alliance/trust-policy-contrib"><code>trust-policy-contrib</code></a> is for community-donated policy definitions that use this tool kit.
+        </td>
+      </tr>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Evaluation Is for Everyone</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>

@@ -147,6 +147,8 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
 
 ### CUBE - Common Unified Benchmark Environment
 
+See also other safety and evaluation projects in [AI Safety, Governance, and Education](safety-governance-education-projects.md).
+
 <div class="table-wrapper">
   <table>
     <thead>
