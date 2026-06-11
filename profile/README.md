@@ -2,7 +2,7 @@
 
 # Welcome to The AI Alliance GitHub Organization
 
-[The AI Alliance](https://www.aialliance.org) GitHub organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
+[The AI Alliance](https://www.thealliance.ai) GitHub organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
 
 The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports the success of essential open technology and research projects in the AI community with particular focus on data, models, and agents. We are dedicated to the benefit of AI for _all_ of society - not just industry. 
 
@@ -15,13 +15,13 @@ The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports t
 
 * Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo).
 * See our [events calendar](https://the-ai-alliance.github.io/event_database/).
-* [Join](https://www.aialliance.org/join) the AI Alliance (or a [specific work group](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)). Learn about our [community](https://github.com/The-AI-Alliance/community/).
+* [Join](https://www.thealliance.ai/join) the AI Alliance (or a [specific work group](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)). Learn about our [community](https://github.com/The-AI-Alliance/community/).
 
 (More links below)
 
 ## About Our Projects
 
-Our unique two-tiered approach of **Core** and **Supported** projects empowers vibrant project growth, a commitment to transparency and permissive use licensing, but without inflexible requirements for IP transfer and rule by committee ([project governance](https://www.aialliance.org/governance)):
+Our unique two-tiered approach of **Core** and **Supported** projects empowers vibrant project growth, a commitment to transparency and permissive use licensing, but without inflexible requirements for IP transfer and rule by committee ([project governance](https://www.thealliance.ai/governance)):
 
 > * **Core Projects:** owned and managed by the AI Alliance (indicated with the <img src="{{site.baseurl}}/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon).
 > * **Supported Projects:** owned and managed by an AI Alliance member organization with collaborators. 
@@ -70,9 +70,9 @@ The core and supported projects are grouped into the following categories:
 
 ## Additional Information
 
-* The [AI Alliance website](https://www.aialliance.org): About us, our goals and initiatives, and our current projects.
+* The [AI Alliance website](https://www.thealliance.ai): About us, our goals and initiatives, and our current projects.
 * Our [events calendar](https://the-ai-alliance.github.io/event_database/): Alliance-sponsored and third-party AI events.
-* Learn more about getting involved in our [community](https://www.aialliance.org/join). In particular. See also:
+* Learn more about getting involved in our [community](https://www.thealliance.ai/join). In particular. See also:
   * Our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) guide.
   * Other resources in our [community GitHub repo](https://github.com/The-AI-Alliance/community).
 * New to AI? Check out our [glossary of terms](https://the-ai-alliance.github.io/glossary/).
