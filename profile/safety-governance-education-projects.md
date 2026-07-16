@@ -2,7 +2,7 @@
 
 > Collaborate on the necessary enablers of successful AI applications.
 
-In order for the objectives of the [Open Agent Hub](open-agent-hub-projects.md) and the [Open Data and Model Foundry](open-models-and-data-projects.md) to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively.
+Successful AI applications have fundamental requirements for safety and governance, as well as the expertise required to use AI technologies effectively.
 
 **AI Safety** encompasses classic cybersecurity, as well as AI-specific concerns, such as suppression of undesirable content and compliance with regulations and social norms. A more general term is _trustworthiness_, which adds concerns about ensuring accuracy (i.e., minimizing hallucinations) and meeting the specific requirements for application use cases, etc. Enterprises won't deploy AI applications into production scenarios if they don't trust them to behave as expected.
 
@@ -14,7 +14,7 @@ The following projects address these concerns.
 
 ## Safety and Governance
 
-See also the discussion of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#cube---common-unified-benchmark-environment) in the [Open Agent Hub Projects](open-agent-hub-projects.md).
+See also the discussion of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#cube---common-unified-benchmark-environment) in the [Agents and Applications Projects](open-agent-hub-projects.md).
 
 <div class="table-wrapper">
   <table>
@@ -88,7 +88,7 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment](open-ag
           </ul>
         </td>
         <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="open-agent-hub-projects.md">Open Agent Hub</a> projects.)
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="open-agent-hub-projects.md">Agents and Applications</a> projects.)
         </td>
       </tr>
       <tr>
