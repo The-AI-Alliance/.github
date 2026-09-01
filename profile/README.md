@@ -6,20 +6,32 @@
 
 The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports the success of essential open technology and research projects in the AI community with particular focus on data, models, and agents. We are dedicated to the benefit of AI for _all_ of society - not just industry. 
 
+<!--
 > [!NOTE]
 > **News:** [Project Tapestry](https://thealliance.ai/projects/tapestry) kicked
 > off with a technical meeting in Paris, May 7-8, 2026.
 > [More details are here](open-models-and-data-projects.md/#project-tapestry) and
 > the [GitHub repo](https://github.com/The-AI-Alliance/tapestry) has
 > all the technical content.
+-->
+
+## Project Tapestry
 
 <center>
 <a href="https://thealliance.ai/projects/tapestry" class="no-glyph">
-<img src="https://the-ai-alliance.github.io/tapestry/assets/images/03-tapestry-logo-1000x545.png" alt="Tapestry Logo">
+<img src="https://the-ai-alliance.github.io/tapestry/assets/images/03-tapestry-logo-500x450.png" alt="Tapestry Logo" class="float-right light-border">
 </a>
 </center>
 
-## Useful Links
+The AI Alliance [launched](https://thealliance.ai/blog/ai-alliance-launches-project-tapestry-to-build-a-collaborative-foundation-for-open-and-sovereign-ai) Project Tapestry to build a collaborative foundation for open and sovereign AI. Project Tapestry is an open-source platform designed to enable globally federated development of frontier, open models while preserving sovereignty, local control, and long-term independence.
+
+**Why this matters:** People will not use models that under perform on their language, legal context, and domain knowledge. And countries, enterprises, and individuals need AI infrastructure they own and control — with guaranteed data residency, the right to exit, and the ability to operate independently. Tapestry addresses both problems simultaneously: sovereignty is the performance strategy, not a trade-off against it.
+
+[More details are here](open-models-and-data-projects.md/#project-tapestry) and
+the [GitHub repo](https://github.com/The-AI-Alliance/tapestry) has
+all the technical content.
+
+## Useful AI Alliance Links
 
 * Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo).
 * See our [events calendar](https://the-ai-alliance.github.io/event_database/).
