@@ -4,7 +4,7 @@
 
 [The AI Alliance](https://www.thealliance.ai) GitHub organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
 
-The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports the success of essential open technology and research projects in the AI community with particular focus on data, models, and agents. We are dedicated to the benefit of AI for _all_ of society - not just industry. 
+The AI Alliance Community is a non-profit that supports the success of essential open technology and research projects in the AI community with particular focus on data, models, and agents. We are dedicated to the benefit of AI for _all_ of society - not just industry.
 
 <!--
 > [!NOTE]
