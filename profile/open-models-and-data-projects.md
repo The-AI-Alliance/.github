@@ -233,6 +233,9 @@ In addition to Project Tapestry, AI Alliance members have built many domain-spec
               <a href="https://github.com/IBM/terratorch">TerraTorch</a>: A library based on <a href="https://lightning.ai/docs/pytorch/stable/">PyTorch Lightning</a> and the <a href="https://github.com/microsoft/torchgeo">TorchGeo domain library</a> for geospatial data. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
             </li>
             <li>
+              <a href="https://github.com/The-AI-Alliance/GEO-Bench-VLM">GEO-Bench-VLM</a>: Benchmarking vision-language models for geospatial tasks.
+            </li>
+            <li>
               <a href="https://github.com/ServiceNow/geo-bench">GEO-bench</a>: A General Earth Observation benchmark for evaluating the performance of large pre-trained models on geospatial data. (Principal developer: <a href="https://servicenow.com/">ServiceNow</a>)
             </li>
           </ul>
