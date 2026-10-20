@@ -4,11 +4,11 @@
 
 Successful AI applications have fundamental requirements for safety and governance, as well as the expertise required to use AI technologies effectively.
 
-**AI Safety** encompasses classic cybersecurity, as well as AI-specific concerns, such as suppression of undesirable content and compliance with regulations and social norms. A more general term is _trustworthiness_, which adds concerns about ensuring accuracy (i.e., minimizing hallucinations) and meeting the specific requirements for application use cases, etc. Enterprises won't deploy AI applications into production scenarios if they don't trust them to behave as expected.
+**AI Safety** was one of the most pressing initial concerns for AI systems, encompassing classic cybersecurity, as well as AI-specific concerns, such as suppression of undesirable content and compliance with regulations and social norms. The tools and techniques developed have been generalized to address general concerns about  _trustworthiness_ and _alignment_, which are about ensuring accuracy (i.e., minimizing hallucinations), and ensuring specific application requirements are met, etc. Enterprises won't deploy AI applications into production scenarios if they don't trust them to behave as expected.
 
-**Governance** is an aspect of trustworthiness, specifically the assurances that all end-to-end processes used to create all AI application components are secure, licensed for use, etc. AI models are created with data; they are mostly data themselves. Hence, models, like data,  need to be governed.
+**Governance** is related to trustworthiness, specifically the assurances that all end-to-end processes used to create all AI application components are secure, all data is properly licensed and responsibly used, etc. AI models are created with data and they are mostly data themselves. Hence, models also need to be governed.
 
-Finally, **Education** addresses the needs where organizations struggle to learn all the things they need to know in order to use AI safely and effectively. Not only has AI introduced new tools and techniques to software application development, it has fundamentally altered some of the ways software works, for example, introducing _stochastic_ behaviors as core aspects of application features, where previously _deterministic_ behaviors were the norm. Most AI Alliance projects have dual missions, not only to innovate and create, but to educate.
+Finally, **Education** addresses the needs where organizations and society at large struggle to learn all the things they need to know in order to use AI safely and effectively. Not only has AI introduced new tools and techniques to software application development, it has fundamentally altered some of the ways software works, for example, introducing _stochastic_ behaviors as core aspects of application features, where previously _deterministic_ behaviors were the norm. Most AI Alliance projects have dual missions, not only to innovate and create, but to educate.
 
 The following projects address these concerns.
 
@@ -67,7 +67,7 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment](open-ag
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Agent Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -89,6 +89,26 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment](open-ag
         </td>
         <td>
           Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="open-agent-hub-projects.md">Agents and Applications</a> projects.)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://www.redhat.com/en/lightspeed">Red Hat Lightspeed</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/rhel-lightspeed">repo</a>
+            </li>
+            <li>
+              <a href="https://docs.redhat.com/en/documentation/red_hat_lightspeed/1-latest">docs</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          An end-to-end system management tool that predicts risks across Red Hat platforms, recommends actions, and tracks costs. Red Hat Lightspeed uses AI-powered package recommendations and planning capabilities to provide targeted guidance on increasing your systems’ day-to-day efficiency. (Principal developer: <a href="https://redhat.com">Red Hat</a>)
         </td>
       </tr>
       <tr>
@@ -185,7 +205,7 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment](open-ag
           </ul>
         </td>
         <td>
-          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Agent Applications</a> project. This project is part of the <a href="https://www.thealliance.ai/projects">Safety and Governance</a> initiative.
+          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Applications</a> project. This project is part of the <a href="https://www.thealliance.ai/projects">Safety and Governance</a> initiative.
         </td>
       </tr>
       <tr>
@@ -211,7 +231,7 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment](open-ag
           </ul>
         </td>
         <td>
-          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Agent Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://www.thealliance.ai/projects">Safety and Governance</a> initiative.
+          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://www.thealliance.ai/projects">Safety and Governance</a> initiative.
         </td>
       </tr>
       <!--
