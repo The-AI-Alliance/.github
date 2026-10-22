@@ -1,6 +1,6 @@
 # AI Safety, Governance, and Education
 
-> Collaborate on the necessary enablers of successful AI applications.
+> Collaborate on the necessary safety and governance enablers of successful AI applications. Ensure users and builders of AI systems have the knowledge they need.
 
 Successful AI applications have fundamental requirements for safety and governance, as well as the expertise required to use AI technologies effectively.
 
@@ -14,7 +14,7 @@ The following projects address these concerns.
 
 ## Safety and Governance
 
-See also the discussion of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#cube---common-unified-benchmark-environment) in the [Agents and Applications Projects](open-agent-hub-projects.md).
+See also the discussions of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#cube---common-unified-benchmark-environment) and [Testing Generative AI Applications](open-agent-hub-projects.md/#agent-development-tools) in the [Agents and Applications Projects](open-agent-hub-projects.md).
 
 <div class="table-wrapper">
   <table>
@@ -63,32 +63,6 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment](open-ag
         </td>
         <td>
           Several AI Alliance organizations are active participants in CoSAI work groups on AI security, including for MCP and agents. See, for example, this summary of CoSAI's work on <a href="https://the-ai-alliance.github.io/enterprise-MCP/security/securing-mcp-cosai/">MCP security</a> in the AI Alliance guide <a href="https://the-ai-alliance.github.io/enterprise-MCP/">MCP (and Beyond) in the Enterprise: A User Guide</a>.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/31">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="open-agent-hub-projects.md">Agents and Applications</a> projects.)
         </td>
       </tr>
       <tr>
