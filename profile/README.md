@@ -2,18 +2,9 @@
 
 # Welcome to The AI Alliance GitHub Organization
 
-[The AI Alliance](https://www.thealliance.ai) GitHub organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
+[The AI Alliance](https://www.thealliance.ai) GitHub organization is the place to discover, use, and contribute to our open-source projects for generative AI.
 
-The AI Alliance Community is a non-profit that supports the success of essential open technology and research projects in the AI community with particular focus on data, models, and agents. We are dedicated to the benefit of AI for _all_ of society - not just industry.
-
-<!--
-> [!NOTE]
-> **News:** [Project Tapestry](https://thealliance.ai/projects/tapestry) kicked
-> off with a technical meeting in Paris, May 7-8, 2026.
-> [More details are here](open-models-and-data-projects.md/#project-tapestry) and
-> the [GitHub repo](https://github.com/The-AI-Alliance/tapestry) has
-> all the technical content.
--->
+The AI Alliance is a non-profit organization that supports the success of essential open technology and research projects in the AI community. We are dedicated to the benefit of AI for _all_ of society and _all_ cultures.
 
 ## Project Tapestry
 
@@ -23,27 +14,26 @@ The AI Alliance Community is a non-profit that supports the success of essential
 </a>
 </center>
 
-The AI Alliance [launched](https://thealliance.ai/blog/ai-alliance-launches-project-tapestry-to-build-a-collaborative-foundation-for-open-and-sovereign-ai) Project Tapestry to build a collaborative foundation for open and sovereign AI. Project Tapestry is an open-source platform designed to enable globally federated development of frontier, open models while preserving sovereignty, local control, and long-term independence.
+The AI Alliance [launched](https://thealliance.ai/blog/ai-alliance-launches-project-tapestry-to-build-a-collaborative-foundation-for-open-and-sovereign-ai) Project Tapestry to build a collaborative foundation for open and sovereign AI. Project Tapestry is building an open-source platform designed to enable globally-federated development of frontier, open models and other AI tools, while preserving sovereignty, local control, and long-term independence.
 
-**Why this matters:** People will not use models that under perform on their language, legal context, and domain knowledge. And countries, enterprises, and individuals need AI infrastructure they own and control — with guaranteed data residency, the right to exit, and the ability to operate independently. Tapestry addresses both problems simultaneously: sovereignty is the performance strategy, not a trade-off against it.
+**Why this matters:** People will not use models that under perform on their language, culture, and domains of interest. Countries, enterprises, and individuals need AI infrastructure they own and control — with guaranteed data residency, the right to exit the collaboration as they see fit, and the ability to operate independently, for example to build locally-customized models for their needs. Tapestry addresses these goals simultaneously: sovereignty is the performance strategy, not a trade-off against it.
 
-[More details are here](open-models-and-data-projects.md/#project-tapestry) and
-the [GitHub repo](https://github.com/The-AI-Alliance/tapestry) has
-all the technical content.
+More details are [here](open-models-and-data-projects.md/#project-tapestry) and
+the [Project Tapestry GitHub repo](https://github.com/The-AI-Alliance/tapestry).
 
-## Useful AI Alliance Links
+## Other General AI Alliance Links
 
-* Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo).
-* See our [events calendar](https://the-ai-alliance.github.io/event_database/).
-* [Join](https://www.thealliance.ai/join) the AI Alliance (or a [specific work group](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)). Learn about our [community](https://github.com/The-AI-Alliance/community/).
+* [The AI Alliance website](https://www.thealliance.ai)
+* [Receive our newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
+* [Join a work group](https://www.thealliance.ai/join)
+* [Learn about our community](https://github.com/The-AI-Alliance/community/)
+* New to AI? See our [glossary of terms](https://the-ai-alliance.github.io/glossary/)
 
-(More links below)
+## Other Alliance and Affiliated Projects
 
-## Other Projects from Our Community
+We have built a portfolio of projects in various areas. They are indicated with the <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon in these pages. We also describe notable independent projects that our members have developed, which fill key needs in the AI ecosystem.
 
-We have built up a portfolio of _core_ projects, which we manage and develop ourselves. They are indicated with the <img src="{{site.baseurl}}/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon. These pages also describe _supported_ projects, which our members have developed and we believe are notable for filling key roles in the AI ecosystem.
-
-All of the projects welcome [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md). See also our [project governance](https://www.thealliance.ai/governance) policies.
+We projects welcome [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md). Each project `README` has specific details. See also our [project governance](https://www.thealliance.ai/governance) policies.
 
 <a id="project-categories"></a>
 
@@ -53,7 +43,7 @@ The projects are grouped into the following categories:
   <table>
     <thead>
       <tr>
-        <th class="project-title" style="width: 33%;">Open Models and Data Projects</th>
+        <th class="project-title" style="width: 33%;">Open Models and Data</th>
         <th class="project-title" style="width: 33%;">Agents and Applications</th>
         <th class="project-title" style="width: 33%;">Safety, Governance, and Education</th>
       </tr>
@@ -61,13 +51,13 @@ The projects are grouped into the following categories:
     <tbody>
       <tr>
         <td>
-          The foundation of our open data and model initiatives is <a href="open-models-and-data-projects.md/#project-tapestry">Project Tapestry</a>, a global initiative to build foundation models with full support for distributed training and data sovereignty. Other initiatives include domain-specific model development in semiconductors and molecular discovery, and cataloging truly open datasets for training and tuning models and agents.
+          The foundation of our open model and data initiatives is <a href="open-models-and-data-projects.md/#project-tapestry">Project Tapestry</a>, described above. We also other model and data projects we have worked on.
         </td>
         <td>
-          The <a href="https://the-ai-alliance.github.io/open-agent-hub/">Agents and Applications</a> open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference patterns and example implementations.
+          The <a href="https://the-ai-alliance.github.io/open-agent-hub/">Agents and Applications</a> are open-source projects and work groups that cover the broader AI application stack, including agents, knowledge bases, etc.
         </td>
         <td>
-          Successful AI applications have fundamental requirements for safety and governance, as well as the expertise required to use AI technologies effectively. You will also find resources for <a href="https://the-ai-alliance.github.io/academic-resources-for-AI/">AI in teaching and research</a> here, too.
+          Successful use of AI requires meeting requirements for safety and governance, as well as the expertise required to use AI technologies effectively. This collection of projects addresses various aspects of trust, safety, and general evaluation, as well as education.
         </td>
       </tr>
       <tr>
@@ -84,12 +74,3 @@ The projects are grouped into the following categories:
     </tbody>
   </table>
 </div>
-
-## Additional Information
-
-* The [AI Alliance website](https://www.thealliance.ai): About us, our goals and initiatives, and our current projects.
-* Our [events calendar](https://the-ai-alliance.github.io/event_database/): Alliance-sponsored and third-party AI events.
-* Learn more about getting involved in our [community](https://www.thealliance.ai/join). In particular. See also:
-  * Our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) guide.
-  * Other resources in our [community GitHub repo](https://github.com/The-AI-Alliance/community).
-* New to AI? Check out our [glossary of terms](https://the-ai-alliance.github.io/glossary/).

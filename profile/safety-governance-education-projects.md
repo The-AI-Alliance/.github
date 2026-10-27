@@ -14,7 +14,7 @@ The following projects address these concerns.
 
 ## Safety and Governance
 
-See also the discussion of [Testing Generative AI Applications](open-agent-hub-projects.md/#agent-development-tools) in the [Agents and Applications Projects](open-agent-hub-projects.md).
+See also the discussion of [Testing Generative AI Applications](open-agent-hub-projects.md/#agent-development-tools-and-example-applications) in the [Agents and Applications Projects](open-agent-hub-projects.md).
 
 <div class="table-wrapper">
   <table>
@@ -55,7 +55,7 @@ See also the discussion of [Testing Generative AI Applications](open-agent-hub-p
 <a id="footnote-1"></a>
 <sup>1</sup> The icon indicates an Alliance <em>core</em> project.
 
-### Notable AI Alliance Member Trust and Safety Projects
+### Notable AI Alliance Member Projects
 
 The following notable, recommended projects are developed by Alliance members and affiliated organizations.
 
@@ -203,13 +203,21 @@ The following notable, recommended projects are developed by Alliance members an
   </table>
 </div>
 
-### Legacy AI Alliance Trust and Safety Projects
+### Legacy AI Alliance Projects
 
-The following projects were created by the Alliance, but are not currently active. Most still welcome contributions in the form of pull requests. See also the discussion of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#cube---common-unified-benchmark-environment) in the [Agents and Applications Projects](open-agent-hub-projects.md).
+The following projects were created by the Alliance, but are not currently active. Most still welcome contributions in the form of pull requests. If you find them valuable, please help us restart work on them!
+
+See also the discussion of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#legacy-ai-alliance-projects) in the [Agents and Applications Projects](open-agent-hub-projects.md).
 
 <div class="table-wrapper">
   <table>
     <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Evaluation Is for Everyone</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
