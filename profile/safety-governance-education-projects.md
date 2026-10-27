@@ -14,7 +14,7 @@ The following projects address these concerns.
 
 ## Safety and Governance
 
-See also the discussions of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#cube---common-unified-benchmark-environment) and [Testing Generative AI Applications](open-agent-hub-projects.md/#agent-development-tools) in the [Agents and Applications Projects](open-agent-hub-projects.md).
+See also the discussion of [Testing Generative AI Applications](open-agent-hub-projects.md/#agent-development-tools-and-example-applications) in the [Agents and Applications Projects](open-agent-hub-projects.md).
 
 <div class="table-wrapper">
   <table>
@@ -48,6 +48,26 @@ See also the discussions of [CUBE - Common Unified Benchmark Environment](open-a
           An introduction to trust and safety concepts from diverse experts, followed by recommendations for how to meet your application's needs. Start here if you are new to trust and safety, then leverage the projects discussed next to implement what you need.
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+<a id="footnote-1"></a>
+<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
+
+### Notable AI Alliance Member Projects
+
+The following notable, recommended projects are developed by Alliance members and affiliated organizations.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://www.coalitionforsecureai.org/">The Coalition for Secure AI (CoSAI)</a>
@@ -83,6 +103,49 @@ See also the discussions of [CUBE - Common Unified Benchmark Environment](open-a
         </td>
         <td>
           An end-to-end system management tool that predicts risks across Red Hat platforms, recommends actions, and tracks costs. Red Hat Lightspeed uses AI-powered package recommendations and planning capabilities to provide targeted guidance on increasing your systems’ day-to-day efficiency. (Principal developer: <a href="https://redhat.com">Red Hat</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://www.unitxt.ai/">unitxt</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/IBM/unitxt">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/unitxt/issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/unitxt/discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/ibm-granite/granite.trust.policy-tools/">Granite Trust Policy Tools</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/ibm-granite/granite.trust.policy-tools/">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/trust-policy-contrib">repo for community contributions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <em>Granite Trust Policy Tools</em> provides a tool kit for defining, implementing, and enforcing <em>policies</em>, open sourced by IBM. The AI Alliance repo <a href="https://github.com/The-AI-Alliance/trust-policy-contrib"><code>trust-policy-contrib</code></a> is for community-donated policy definitions that use this tool kit.
         </td>
       </tr>
       <tr>
@@ -135,27 +198,26 @@ See also the discussions of [CUBE - Common Unified Benchmark Environment](open-a
             </ul>
           </p>
         </td>
-      </tr>      
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/ibm-granite/granite.trust.policy-tools/">Granite Trust Policy Tools</a>
-        </td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+### Legacy AI Alliance Projects
+
+The following projects were created by the Alliance, but are not currently active. Most still welcome contributions in the form of pull requests. If you find them valuable, please help us restart work on them!
+
+See also the discussion of [CUBE - Common Unified Benchmark Environment](open-agent-hub-projects.md/#legacy-ai-alliance-projects) in the [Agents and Applications Projects](open-agent-hub-projects.md).
+
+<div class="table-wrapper">
+  <table>
+    <thead>
       <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/ibm-granite/granite.trust.policy-tools/">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/trust-policy-contrib">repo for community contributions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          <em>Granite Trust Policy Tools</em> provides a tool kit for defining, implementing, and enforcing <em>policies</em>, open sourced by IBM. The AI Alliance repo <a href="https://github.com/The-AI-Alliance/trust-policy-contrib"><code>trust-policy-contrib</code></a> is for community-donated policy definitions that use this tool kit.
-        </td>
+        <th>Links</th>
+        <th>Description</th>
       </tr>
+    </thead>
+    <tbody>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Evaluation Is for Everyone</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
@@ -208,7 +270,6 @@ See also the discussions of [CUBE - Common Unified Benchmark Environment](open-a
           The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/">Testing Generative AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://www.thealliance.ai/projects">Safety and Governance</a> initiative.
         </td>
       </tr>
-      <!--
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
@@ -235,36 +296,9 @@ See also the discussions of [CUBE - Common Unified Benchmark Environment](open-a
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
-      -->
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://www.unitxt.ai/">unitxt</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/IBM/unitxt">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/unitxt/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/unitxt/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-           Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
-        </td>
-      </tr>
     </tbody>
   </table>
 </div>
-
-<a id="footnote-1"></a>
-<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
 
 ## AI in Education and Research
 
@@ -297,7 +331,7 @@ See also the discussions of [CUBE - Common Unified Benchmark Environment](open-a
           </ul>
         </td>
         <td>
-          A growing catalog of publicly-available resources on how to safely and effectively use AI in education and research. These resources include guidelines adopted at various institutions, courseware, degree programs, research on AI effectiveness in these contexts, etc.
+          A growing catalog of publicly-available resources on how to safely and effectively use AI in education and research. These resources include guidelines adopted at various institutions, courseware, degree programs, research on AI effectiveness in these contexts, etc. It is far from complete and comprehensive, so your contributions are welcome!
         </td>
       </tr>
     </tbody>

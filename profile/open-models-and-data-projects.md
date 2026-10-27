@@ -1,10 +1,12 @@
 # Open Models and Data Projects
 
-The **Open Models and Data Projects** address key needs for customized, domain-specific models and data sets, while addressing concerns for sovereignty and governance. Our work since our founding has covered a wide range of domains, including geospatial, industrial, molecular discovery, time series, and others. Starting in late 2026, these efforts are focusing on the needs of Project Tapestry.
+Since the founding of the AI Alliance, many _open-weight_ models have emerged, but the need remains for domain- and use case-specific open models. Build these models requires open, responsibly-governed data sets, addressing concerns for sovereignty and governance.
+
+Several work groups have collaborated on domains such as geospatial, industrial, molecular discovery, and time series. In May 2026, we started Project Tapestry with a broad mission to meet open model and data sets needs that work for all of humanity and all applications.
 
 ## Project Tapestry
 
-[Project Tapestry](https://thealliance.ai/projects/tapestry) is a global initiative to build and tune foundation models with full and flexible support for sovereignty concerns and responsible use of data.
+[Project Tapestry](https://thealliance.ai/projects/tapestry) is a global initiative to build and adapt foundation models with full and flexible support for sovereignty concerns and responsible use of data.
 
 <div class="table-wrapper">
   <table>
@@ -102,6 +104,23 @@ Good datasets are essential for building good models and applications. The AI Al
           </ul>
         </td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+### Notable AI Alliance Member Data-Related Projects
+
+The following notable, recommended projects are developed by Alliance members and affiliated organizations.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://docling-project.github.io/docling/">Docling</a>
@@ -186,7 +205,7 @@ In addition to Project Tapestry, AI Alliance members have built many domain-spec
     <tbody>
       <tr>
         <td class="project-title">
-          Open Models
+          <strong>Open Models</strong>
         </td>
       </tr>
       <tr>
@@ -221,7 +240,7 @@ In addition to Project Tapestry, AI Alliance members have built many domain-spec
       </tr>
       <tr>
         <td class="project-title">
-          Support Tools
+          <strong>Support Tools</strong>
         </td>
       </tr>
       <tr>
