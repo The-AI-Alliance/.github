@@ -2,7 +2,7 @@
 
 # Welcome to The AI Alliance GitHub Organization
 
-[The AI Alliance](https://www.thealliance.ai) GitHub organization is the place to discover, use, and contribute to our open-source projects for generative AI.
+[The AI Alliance](https://thealliance.ai) GitHub organization is the place to discover, use, and contribute to our open-source projects for generative AI.
 
 The AI Alliance is a non-profit organization that supports the success of essential open technology and research projects in the AI community. We are dedicated to the benefit of AI for _all_ of society and _all_ cultures.
 
@@ -23,9 +23,9 @@ the [Project Tapestry GitHub repo](https://github.com/The-AI-Alliance/tapestry).
 
 ## Other General AI Alliance Links
 
-* [The AI Alliance website](https://www.thealliance.ai)
+* [The AI Alliance website](https://thealliance.ai)
 * [Receive our newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
-* [Join a work group](https://www.thealliance.ai/join)
+* [Join a work group](https://thealliance.ai/join)
 * [Learn about our community](https://github.com/The-AI-Alliance/community/)
 * New to AI? See our [glossary of terms](https://the-ai-alliance.github.io/glossary/)
 
@@ -33,7 +33,7 @@ the [Project Tapestry GitHub repo](https://github.com/The-AI-Alliance/tapestry).
 
 We have built a portfolio of projects in various areas. They are indicated with the <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon in these pages. We also describe notable independent projects that our members have developed, which fill key needs in the AI ecosystem.
 
-We projects welcome [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md). Each project `README` has specific details. See also our [project governance](https://www.thealliance.ai/governance) policies.
+We projects welcome [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md). Each project `README` has specific details. See also our [project governance](https://thealliance.ai/governance) policies.
 
 <a id="project-categories"></a>
 

@@ -224,7 +224,7 @@ The following notable, recommended projects are developed by Alliance members an
               <a href="https://github.com/aitomatic/dana/issues">issues</a>
             </li>
             <li>
-              <a href="https://www.thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin">blog post</a>
+              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin">blog post</a>
             </li>
           </ul>
         </td>
@@ -274,7 +274,7 @@ The following projects were created by the Alliance, but are not currently activ
           </ul>
         </td>
         <td>
-          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example explores recent medical research on diseases and pharmaceuticals. The third example supports finding and summarizing recent research papers posted to <a href="https://arxiv.org">ArXiv</a>. There are many other applications possible. The project is a collaboration of <a href="https://www.lastmileai.dev/">LastMile AI</a> and <a href="https://ibm.com">IBM</a>. It is based on LastMile's <a href="https://github.com/lastmile-ai/mcp-agent">MCP Agent</a>. See the <a href="https://www.thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on LastMile's lessons learned developing the <em>orchestration</em> feature in MCP Agent for deep research and related use cases. Highly informative!
+          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example explores recent medical research on diseases and pharmaceuticals. The third example supports finding and summarizing recent research papers posted to <a href="https://arxiv.org">ArXiv</a>. There are many other applications possible. The project is a collaboration of <a href="https://www.lastmileai.dev/">LastMile AI</a> and <a href="https://ibm.com">IBM</a>. It is based on LastMile's <a href="https://github.com/lastmile-ai/mcp-agent">MCP Agent</a>. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent">recent Alliance blog post</a> on LastMile's lessons learned developing the <em>orchestration</em> feature in MCP Agent for deep research and related use cases. Highly informative!
         </td>
       </tr>
       <tr>
