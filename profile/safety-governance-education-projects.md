@@ -87,6 +87,65 @@ The following notable, recommended projects are developed by Alliance members an
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://roost.tools/">ROOST - Robust Open Online Safety Tools</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/roostorg">GitHub</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          ROOST (Robust Open Online Safety Tools) is a non-profit that builds, releases, and maintains modular, open-source infrastructure for online safety. They serve product teams, trust & safety leads, and community moderators who need to review, triage, and enforce on harmful content without building everything from scratch or relying on opaque or expensive vendor tools. The focus is on modular, self-hostable, and interoperable components. (Principal developer: <a href="https://roost.tools">ROOST Project</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/skillberry-ai">Skillberry</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/skillberry-ai">GitHub</a>
+            </li>
+            <li>
+              <a href="https://medium.com/@bnayahu/52f0c84dc704">blog</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Skillberry provides a framework for enterprise-ready AI agentic skills. It emphasizes the usage of approved, deterministic skills at runtime to minimize reliance on LLMs and enhance trustworthiness. Skillberry transforms AI agents into trusted, cost-effective, consistent and enterprise-ready by leveraging and continuously optimizing deterministic skills.
+          <ul>
+            <li>Skillberry provides scalable skills, tools and MCP runtime management and automation.</li>
+            <li>Skillberry performs iterative optimization to accelerate generation, testing, and refinement of skills.</li>
+            <li>Skillberry continuously improve skills by adapting to user inputs and business changes.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://www.unitxt.ai/">unitxt</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/IBM/unitxt">repo</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://www.redhat.com/en/lightspeed">Red Hat Lightspeed</a>
         </td>
       </tr>
@@ -103,29 +162,6 @@ The following notable, recommended projects are developed by Alliance members an
         </td>
         <td>
           An end-to-end system management tool that predicts risks across Red Hat platforms, recommends actions, and tracks costs. Red Hat Lightspeed uses AI-powered package recommendations and planning capabilities to provide targeted guidance on increasing your systems’ day-to-day efficiency. (Principal developer: <a href="https://redhat.com">Red Hat</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://www.unitxt.ai/">unitxt</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/IBM/unitxt">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/unitxt/issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/unitxt/discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-           Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking. (Principal developer: <a href="https://research.ibm.com/">IBM Research</a>)
         </td>
       </tr>
       <tr>
@@ -167,9 +203,6 @@ The following notable, recommended projects are developed by Alliance members an
             </li>
             <li>
               <a href="https://github.com/ServiceNow/DoomArena">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/ServiceNow/DoomArena/issues">issues</a>
             </li>
           </ul>
         </td>
