@@ -14,6 +14,8 @@ The following projects address these concerns.
 
 ## Safety and Governance
 
+We recommend searching the OECD [Catalogue of Tools & Metrics for Trustworthy AI](https://oecd.ai/en/catalogue/overview){:target="oecd"} for related tools and metrics.
+
 See also the discussion of [Testing Generative AI Applications](open-agent-hub-projects.md/#agent-development-tools-and-example-applications) in the [Agents and Applications Projects](open-agent-hub-projects.md).
 
 <div class="table-wrapper">
@@ -334,6 +336,8 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment](open-ag
 </div>
 
 ## AI in Education and Research
+
+See also the OECD [Catalogue of Tools & Metrics for Trustworthy AI](https://oecd.ai/en/catalogue/tools?approachIds=2&page=1){:target="oecd"} for tools tagged _educational_.
 
 <div class="table-wrapper">
   <table>
